@@ -1,0 +1,83 @@
+Watching a tennis match can be an exhilarating, almost an artistic experience. The grace of Roger Federer, the tenacity of Rafael Nadal, the precision of Novak Djokovic. The outcome of a match is an intricate interplay of forehands, backhands, physical and mental fitness, and a host of other factors. But just like a baseball game can be distilled into a box score, a tennis match can be summarized using a variety of statistics: winners, unforced errors, aces, double faults etc.
+
+Ask any tennis coach what the most important stroke in tennis is, and I bet the majority of them will say the serve. Why the serve? Every point in a tennis match starts with a serve. A quality serve sets up the rest of the point in favor of the server, and increases his/her chances of winning the point. The serve is also the only stroke in tennis, where the player is in complete control, and doesn’t respond to a shot hit by his/her opponent.
+
+With that being said, I have decided to look at a number of serve-related statistics and determine, how well each one of them predicted the outcome of a tennis match by itself. Specifically, I looked at:
+
+aces,
+
+double faults,
+
+first serve percentage,
+
+first serve winning percentage, i.e. the percentage of points a server wins when he/she makes a first serve,
+
+second serve winning percentage,
+
+and a weighted average of the first and second serve winning percentages
+
+The dataset I used is the results and statistics of 2,781 men’s tennis matches played on the ATP tour in 2019, collected and compiled by Jeff Sackmann(link here). I will also link parts of Jupyter Notebooks throughout the text so you can see where the numbers come from.
+
+Aces
+
+If I only gave you the number of aces hit by both players, and asked you to guess, who the winner of the match was, how helpful would that information be? It turns out that not very much; number of aces hit is not a very good predictor of the outcome of the match. In this dataset, the winner of a match hit more aces than the losing player only roughly 55% of the time. A little better than a coin flip, but not by much.
+
+Aces
+
+Double faults
+
+Double faults are not of much help either. The loser of a match actually hit more double faults than the winner of the match in less than half of the matches in our sample, roughly 49%. We’re still in coin flip territory.
+
+Double faults
+
+An intuitive explanation of why aces and double faults don’t have much predictive power is that they are both events that happen too rarely in ATP tennis matches to affect the outcome; the returner gets his racket on the serve the majority of the time.
+
+And the data bears that out. The median number of aces hit by a winner of a match was 6, for the loser it was 4. Similarly, the median number of double faults hit by a winner of a match was 2, for the loser it was 3. Aces and double faults simply didn’t happen often enough at the ATP level in 2019 in order to sway the outcome of a match in a particular direction.
+
+First serve percentage
+
+Could looking at the first serve percentage do a better job than aces and double faults? Tennis players tend to be more aggressive with their first serves, hitting them faster and often with less spin than the second serve. One would assume that the player with a higher first serve percentage would get ahead in the point more often, could dictate play in their service games more frequently, and hence be more in control of the match. However, it turns out that the winner of a match in this dataset had a higher first serve percentage than the losing player only roughly 55% of the time. In effect, first serve percentage had a similar predictive ability as the number of aces hit.
+
+First serve percentage
+
+The first serve percentage takes into account more events than aces or double faults; it is calculated by dividing the number of times a player started a point with a first serve by the total number of points a player played on his serve. But it tells us nothing about the effectiveness of the first serve. Does the server tend to gain a significant advantage? Or is the first serve really a second serve “in disguise,” hit slowly in order to avoid hitting a second serve at all? The amount of damage a first serve does seems to be as important, if not more, than the simple fact of starting a point with a first serve.
+
+First and second serve winning percentages
+
+These two statistics should have much more predictive power than aces, double faults, or first serve percentage. Compared to only a ‘raw’ first serve percentage, the respective winning percentages tell us the actual outcome of the point. The limitation here is that we don’t know, how big a part the serve played in the outcome. The serve could have forced a weak return, and the server won the point mostly on the strength of the serve. Or the point could have been an extended baseline rally, where the deciding factors were endurance, discipline, and tactical acumen. But if the only statistic you had available to you were either the first or second serve winning percentages of both players, the chances of you guessing the winner of the match correctly would have improved dramatically in comparison to aces, double faults, or first serve percentage. In particular:
+
+The winner of the match had a higher 1st serve winning percentage roughly 80% of the time, and
+
+The winner of the match had a higher 2nd serve winning percentage roughly 74% of the time
+
+First and second serve win percentages
+
+There are two things that I think are worth highlighting here:
+
+The majority of the points played in this dataset were played following a first serve. The median first serve percentage for the winner of the match was roughly 63%; for the loser it was about 61%. In a majority of the matches on the ATP tour, you will see the first serve percentages fluctuate anywhere between 55–70% for both players. It makes sense that if the majority of the points are played following a first serve, the player who has a higher winning percentage on his first serve would have a higher chance of winning the match. The second serve is an important battleground in men’s tennis. Quality second serves are not as sexy as aces, but can have a significant impact on the outcome of the match. For the sake of simplicity, let’s assume that for a typical match in our dataset, 60% of points were played after a first serve, and 40% were played after a second serve. That’s a 33% drop in the number of points played, but only a 6% drop in the predictive power of the statistic (80% vs 74%).
+
+Combining first and second serve winning percentages
+
+If we could predict the winner of a match in our dataset roughly 80% of the time just by looking at who had the higher first serve winning percentage, how much better could we do if we combined the first and second serve winning percentages? For that, I have decided to do a weighted average comparison.
+
+I defined the weighted serve winning percentage as follows:
+
+Weighted serve winning percentage = (first serve weight * first serve winning percentage) + ((1-first serve weight) * second serve winning percentage)
+
+For the first serve weight, I started at 0.05, which would make the second serve weight equal to 1–0.05 = 0.95. Then for a particular first serve weight, I determined:
+
+The weighted serve winning percentage using that weight for match winners
+
+The weighted serve winning percentage using that weight for match losers
+
+For what percentage of matches in our dataset was the winner’s weighted serve winning percentage greater than the loser’s weighted serve winning percentage at that weight
+
+The first serve weight started at 0.05, and then I increased it in 0.05 increments up to 0.95. (0.05, 0.10, 0.15…). The results are in the table below:
+
+Weighted average table
+
+Weighted average function and results
+
+I got the highest predictive accuracy for the value of first serve weight somewhere between 0.60 and 0.65 (these two values were actually identically accurate at around 87.23% of accuracy). And that makes logical sense. If the median first serve percentage was roughly 63% for the winner, and 61% for the loser, then multiplying the first serve winning percentage by a coefficient in the 0.60–0.65 range would it give the proper corresponding weight in the weighted average calculation. Similarly, if in our typical match, a little less than 40% of points were played following a second serve, a second serve coefficient in the 0.35–0.40 range reflects that as well.
+
+It would be interesting to see, whether these relationships are stable year over year (after all, I was only using data for the 2019 calendar year), whether they are the same on the women’s professional tour, or how different do the numbers look at the lower levels of men’s professional tennis, i.e. Futures and Challengers. Until we get to enjoy live tennis again, everybody stay safe and healthy!

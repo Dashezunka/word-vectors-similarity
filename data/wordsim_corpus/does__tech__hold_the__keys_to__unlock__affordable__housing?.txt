@@ -1,0 +1,41 @@
+Can technology play a role?
+
+TechCrunch reported that real estate tech companies received over $16B in funding in 2019 alone. The tech vertical known as “PropTech” has attracted top VC and private equity firms like Andreessen Horowitz and Bain Capital Ventures. Let’s take a deeper look into PropTech and its promise for housing affordability.
+
+Empowering buyers
+
+Trailblazers such as Zillow and Redfin propelled the PropTech vertical into the spotlight by facilitating real estate search. Using such platforms, prospective buyers managed to scan the web for the best bang for the bucks. The enhanced access to information empowered buyers (and paradoxically sellers) to make more informed decisions and reduced their over-reliance on real estate agents. Similar platforms also emerged in the rental market such as RentLogic shifting the balance of power from landlord to tenant, even if ever so slightly. Start-ups such as Reali followed by eliminating the need for a real estate agent altogether, saving home buyers hefty fees. The advent of machine learning raised the bar with direct access to price comparisons while providing buy or hold recommendations to future owners.
+
+While these platforms played a role in battling buyer information asymmetry, they did little to solve the affordability crisis beyond helping buyers save on fees and find the “best” deal.
+
+Breaking down credit barriers
+
+For buyers who have a harder time getting a competitive mortgage rate, start-ups such as EasyKnock and Divvy provide innovative sale-leaseback or rent-to-own programs. In simple terms, either company buys the house on the client’s behalf and then leases it back. Buyers become renters and can build equity over time.
+
+Image from remax.com
+
+Another creative platform for cost-burdened owners is Point. Point offers to share equity, thereby financing part of the cost and splitting risk with the owner. The client can buy-back that equity (their website does not make it clear if interest is charged), or can simply sell their home in the future while splitting the profit with Point.
+
+Rent-to-own and shared equity arrangements are a huge step forward. The fact that you or I can buy a home at half price with another party yet still occupy the entire estate by ourselves is potentially a game-changer. However, the success of such initiatives will lie on the ethicality of the platform and the financial stability of the occupant. The scalability of said platforms also comes to question as asset-heavy innovations such as shared ownership add risk to the venture. Time can only tell.
+
+New investment opportunities
+
+One of the most exciting innovations I came across when researching PropTech advancements is “Tokenization” — to fractionalize real estate assets digitally on a blockchain. In other words, building a real estate exchange. Tokenization is slowly becoming a reality with companies such as Atlant, where presumably anyone can buy shares in individual real estate assets (as opposed to REITs where you mainly invest in a conglomerate of assets; check out Fundrise for a different more tech-savvy take on REITs). I admit I have not used the platform myself, nor do I have the credentials to assess the efficacy of its promise. But if similar start-ups kickoff, it can impact how we perceive the asset class itself leading to changes in consumer sentiment and behavior towards home buying.
+
+Beyond ownership — sharing the box
+
+Many millennials and Gen Z buyers have either simply given up on the prospect of owning a home for themselves or do not see the appeal of investing so much wealth in a static unit that anchors them in one place. If you identify with such sentiments, start-ups such as PadSplit, WeLive, and Bungalow offer housing-as-a-service for renters whereby furnished housing and amenities are provided for a weekly or monthly payment. Nevertheless, these solutions seem to be rather geared towards the young and single, for sharing becomes a lot more complicated when families come into play.
+
+Addressing cost by re-imagining housing
+
+Beyond affordability, many entrepreneurs are taking a first-principles approach to address the housing crisis. Companies such as RAD Urban and Factory OS are leveraging insights from the world of manufacturing to build modular and prefabricated buildings. The promise here is that housing can be built 40% faster and 20% cheaper, thereby addressing both the housing shortage and affordability problems.
+
+Other innovations have set their eyes on re-imagining space. An example that was featured on SideWalk Labs podcast series “City of the Future” is Ori Living. Ori Living unlocks the potential of space by making a 300 sqft condo feel like 500 sqft through the use of robotics and creative design, transforming furniture into a Tetris operation.
+
+Re-imagining zoning
+
+This is arguably an extremely difficult challenge, as the solution lies at the intersection of politics, NIMBYism, municipal governance, and yes technology. Similar to how PropTech first started, companies such as Envelope and Ratio.city are digitizing zoning in order to enable easy access to city complexity. Planners develop, policymakers can then identify missed opportunities in zoning, empowering them to make the necessary changes to unlock supply. Further, academics at MIT are also attempting to use spatial intelligence and machine learning to rationalize urban space.
+
+The combination of data and land-use modeling has the potential to reimagine zoning in the densest of cities without causing major social and economic distress from expanded construction and building activity. This field is more commonly known as Urban Intelligence or Urban Analytics. It remains in its nascency but its impact is being felt at an accelerated rate year over year.
+
+On a personal note, I am fairly bullish on the field of Urban Intelligence in its ability to create smarter, cleaner, and more equitable cities. A deeper dive into the field is beyond our scope, but I plan to write a separate article on the field’s origin, present, and future.

@@ -1,0 +1,115 @@
+Xiaomi Mi 10 Pro two-minute review
+
+Xiaomi has gained a reputation for releasing impressive phones with affordable price tags; however, it seems to have dropped one of those adjectives for its Mi 10 series in 2020, as the phones – and especially the Xiaomi Mi 10 Pro – aren’t what most of us would consider ‘affordable’.
+
+The Pro’s high price tag does come with plenty of features phone fans will love. Its camera array consists of a 108MP main snapper, and there are also two telephoto zoom lenses (one for long-distance shots, another for the portrait mode), and an ultra-wide snapper. On paper, and indeed in real life, the camera is pretty great.
+
+There’s plenty more to like in the phone too, like its snappy charging, premium ‘feel’ (thanks to its sleek back and gently curved screen) and some of the best speakers we’ve found in a smartphone, which are as good for music as they are for gaming.
+
+It’s hard to talk about all this, though, without mentioning the Xiaomi Mi Note 10 from 2019, which came with many of these specs and design flourishes but at half the cost. So does that call into question the Mi 10 Pro’s high price? It sure does.
+
+There are a few problems with the Xiaomi Mi 10 Pro too, like its slow fingerprint sensor, or the fact Xiaomi still hasn’t solved the bloatware problems its own-brand user interface MIUI always seems to bring. These aren’t huge issues, though, and many people will find they can live with them.
+
+In general, it seems the Xiaomi Mi 10 Pro is a great phone at a questionably high price tag. When it’s been out a while, and the cost sinks in sales or over time, it’s definitely worth considering picking up.
+
+Editor’s note: We were unable to test the Xiaomi Mi 10 Pro’s 5G capabilities due to the coronavirus lockdown prohibiting travel to 5G-connected areas. However, 5G speeds depend more on the network than the device, so 5G performance isn’t necessarily an indication of a phone’s capabilities. We also only had limited opportunity to test certain camera features.
+
+Xiaomi Mi 10 Pro price and availability
+
+The Xiaomi Mi 10 Pro is currently available in certain parts of the world, including Australia and various European countries, but while we know a UK launch is on the cards, and possibly a US one too, we’ve no idea when that will be.
+
+If you’re looking to buy the phone, the official Xiaomi Mi 10 Pro price is AU$1,999 (roughly $1,290, £1,030) so assuming those conversions are even close to accurate, this is a decidedly premium phone. As we noted at the outset of this review, it seems that Xiaomi is dispensing with the ‘mid-range’ or ‘affordable’ mantles of its previous Mi phones.
+
+For comparison, the Xiaomi Mi 9 cost £549 (roughly $680, AU$1,120) and the Mi Note 10 released six months prior to the Mi 10 cost £459 (about $570, AU$940), so unless the above conversions are way off, the Mi 10 Pro is set to be a considerably more expensive phone
+
+The hike over the Xiaomi Mi Note 10 in particular is dramatic, as that phone has a lot in common with the Mi 10 Pro, from its camera array to its curved screen and more – and it means the Mi 10 Pro is going to have to work hard to justify its lofty price tag.
+
+Display
+
+The Xiaomi Mi 10 Pro screen is 6.67 inches diagonally, so it’s a fairly standard size for top-end phones in 2020, but as a Super AMOLED panel with a 1080 x 2340 resolution it doesn’t quite stack up against the OnePlus 8 Pro or Oppo Find X2 Pro, both of which have 6.7-inch screens with a 1440 x 3168 resolution.
+
+The display has a 90Hz refresh rate which is pretty respectable when many phones are still 60Hz, and it makes flicking through apps and scrolling social media a little smoother. However with some of this year’s top-end phones, including the Samsung Galaxy S20, sporting 120Hz refresh rates, the Xiaomi phone is left behind a bit here as well.
+
+These minor shortcomings compared to its contemporaries won’t mean much to people who don’t need a top-end display though – if you’re buying a new phone for its camera, gaming power or battery life you might not care too much about the screen tech.
+
+None of this to say the Xiaomi Mi 10 Pro has a bad screen by any means, as colors look good and contrast is on point. The display was often dimmer than we’d prefer, though, either because the automatic brightness didn’t boost the brightness enough, or simply because the max brightness just isn’t that high at 500 nits.
+
+Something we’re happy to report, display-wise is that it didn’t drain the battery as much as comparable phones, despite the tech on offer. When we used the screen with its default 90Hz refresh rate (as opposed to the optional, battery saving 60Hz rate), and when we left the always-on-display showing for hours at a time, the battery didn’t suffer too much, despite these being two features that are notoriously power-hungry.
+
+Design
+
+The Xiaomi Mi 10 Pro has a pretty standard look if you’re well versed in high-end Android phone design language, with a curved screen with minimal bezel on the front, curved edges on the back and a left-side camera bump on the rear (and one lens that’s not mounted in this bump, for some reason).
+
+As on other Xiaomi phones, the rear camera bump sticks out quite a bit. When using other phones with similarly protruding bumps we’ve found they can scuff pretty easily, and we’d expect that to be the case with the Mi 10 Pro over time, although we didn’t notice this in our time with the phone.
+
+The curved edges of the display are a little less tapered than on some other smartphones, such the Oppo Find X2, so there’s not much risk of you pressing the screen by accident, and the phone feels comfortable to hold. There’s a small ‘punch-hole’ cut-out for the selfie camera at the top-left of the display.
+
+The phone feels big, with dimensions of 162.5 x 74.8 x 9mm and a weight of 208g. Generally speaking, any phone that weighs in at over 200g feels a little bulky to hold, although the Xiaomi Mi 10 Pro’s relative bulk is understandable given its screen size, and the technology within.
+
+The front and back of the phone are glass, and the frame is aluminium – as we’ve mentioned, the design is pretty regulation for a top-end Android phone. On the right edge of the phone are the volume rocker and power button, and on the base is the USB-C port (but no 3.5mm headphone jack). Due to the aforementioned size of the phone, for some people with smaller hands we’d expect the phone and side buttons to be rather hard to reach, though this won’t affect all people.
+
+The build of the Xiaomi Mi 10 Pro feels pretty sturdy, although some people might have trouble with the size or camera bump.
+
+Cameras
+
+The Xiaomi Mi 10 Pro has a 108MP main camera, which is one of the biggest draws of the device for people who want high-spec snappers.
+
+In good lighting conditions, like a bright room or outdoors on a sunny day, this camera can take great pictures, with plenty of detail, bright colors and rich textures, whether you use the default shooting mode, which uses pixel binning to effectively combine four pixels into one for improved light gathering, resulting in 27MP pictures, or the 108MP shooting mode.
+
+Pixel binning effectively makes a certain number of pixels - four, in this case - act as one, letting in more light and improving the look of resulting photos. You can read an in-depth guide on how this works here.
+
+If lighting isn’t so great, though, when you’re indoors or at night, pictures can look a touch grainy or noisy, although the default pixel binning mode mitigates these issues a little. Still, pictures taken in low-light conditions still looked a touch better than snaps taken on other phones with lower resolutions.
+
+There’s also a 20MP f/2.2 ultra-wide snapper, and we found that pictures taken with this looked noticeably brighter than shots from the main camera, and perhaps even a little more appealing as a result. There wasn’t much visible distortion at the edges of images, as can sometimes be the case with wide-angle lenses – in fact it was sometimes difficult to tell if a picture had been taken with the wide-angle or the main camera, if there was no context.
+
+The main telephoto snapper is an 8MP f/2 combo, and this offers 5x optical and 10x hybrid (optical + digital) zoom. Pictures taken with this looked pretty similar to those from the main snapper in terms of color and brightness, and while the relatively low-res 8MP sensor isn’t going to allow you to take fantastic-looking zoom shots, the camera does add an extra layer of versatility, enabling you to adjust the framing of long-distance subjects.
+
+This snapper also offers digital zoom up to 50x, although again the sensor isn’t really up to the job, and pictures taken with this camera look so grainy that it’s hardly worth using.
+
+The final rear camera has a 12MP f/2 sensor, and it also has a telephoto lens, although this one only offers 2x optical zoom for portrait mode shots. While we weren’t able to test it out due to social distancing restrictions at time of writing, it’s exactly the same camera as the one in the Xiaomi Mi Note 10, which we found took fantastic-looking people shots. Assuming that nothing has changed for the worst, it’s one of the best portrait-shooting setups we’ve seen on a smartphone.
+
+The Xiaomi Mi 10 Pro has a range of video-shooting modes that may appeal to videographers – the phone can shoot in 8K at 30fps, and 4K and 1080p at 60fps or 30fps, so there’s some versatility here, and there are various useful modes like slow-motion, auto-subject-tracking, and ‘vlog’ mode, which lets you shoot several short snippets and seamlessly edit them together.
+
+One issue we had with the slow-motion mode was that footage came out looking very dark, making it essentially unusable indoors. We’re not sure if this is a bug, or a quirk of the camera settings we used, but it wasn’t ideal.
+
+The front-facing camera is 20MP and f/2, and pictures taken with this looked nice, especially when we used the portrait mode, which automatically blurs the background with fairly good accuracy.
+
+Camera samples
+
+Battery life
+
+The Xiaomi Mi 10 Pro has a 4,500mAh power pack, which is a fairly generous capacity for a flagship phone, although how long a smartphone lasts depends as much on performance optimization as on the charge it can hold – and the Mi 10 Pro seems to do pretty well in this regard.
+
+You can use the Xiaomi Mi 10 Pro for easily a day without needing to charge it, whether you’re just checking your messages, or streaming music and movies, or playing games. In fact, we generally found the phone lasted well into a second day of typical use before dying on us.
+
+If you turn on the always-on display, or the 90Hz screen option, the battery life won’t be quite as impressive – although as we’ve mentioned we found it didn’t take too much of a hit, and the phone will still last you a day.
+
+You can power up the phone via 50W fast charging, which certainly is pretty speedy – after only 10 minutes plugged in the phone had jumped up to 27%, and it took well under an hour to get up to full charge. There’s also 30W wireless charging, which doesn’t quite reach the speeds of wired charging, but it’s still snappier than even wired boosting on many other devices.
+
+If you’ve got other devices that support the Qi wireless charging standard, the Xiaomi Mi 10 Pro can charge those using bilateral powering which lets you use your phone as a wireless charging pad. At 5W it’s not exactly snappy, and we wouldn’t recommend it as a way to share charge with another smartphone, but it can be useful giving your smartwatch or earbuds a quick top-up.
+
+Performance and software
+
+The Xiaomi Mi 10 Pro has a Snapdragon 865 chipset, the best processor available to Android phones at the time of its release, providing top-end processing power. When we put the phone through a benchmarking test it returned a multi-core score of 3210, which beat the Samsung Galaxy S20 Plus, although it didn’t quite reach the heights of the iPhone 11 Pro Max.
+
+This chipset is paired with 8GB RAM, which isn’t as high as some other phones with 12GB or even 16GB, but the phone still felt snappy to use. In addition the chipset comes with a 5G modem, so the Xiaomi Mi 10 Pro is a 5G-enabled device.
+
+In terms of storage, you’ll get 256GB, which should be plenty for most users, whether you just want to store your photos and apps, or even if you want to load up lots of top-end games, or shoot and edit video on a regular basis.
+
+The operating system is Android 10, with Xiaomi’s MIUI interface laid over the top. This is generally a cosmetic change, though it brings certain apps which complement the default Android selection. However we did experience a few issues with it – gesture navigation is unavailable, so you can’t remove the three virtual navigation buttons and rely on swipes instead, and there are quite a few preinstalled apps that you’re unlikely to ever use, which can be a bit irritating.
+
+Something else worth pointing out is that the in-screen fingerprint sensor feels a little slower than those on other phones. If you’re coming from a handset with a physical fingerprint sensor or face unlock this may not be an issue for you, but if you value snappy activation you may find the Xiaomi Mi 10 Pro a little slow.
+
+Movies, music and gaming
+
+The Xiaomi Mi 10 Pro has some of the best speakers we’ve heard on a smartphone. The dual-speaker setup, consisting of one on the bottom of the phone and another at the top, sounds great, with a fairly loud maximum volume, and little to no distortion at higher levels, meaning that music and other audio sounds great.
+
+We did, however, run into an issue when using the phone for watching movies or gaming. At the Xiaomi Mi 10 launch, Xiaomi justified having a corner ‘punch-hole’ cut-out camera by saying that when you hold the phone in landscape orientation for movies or gaming, your hand will likely cover that part of the screen, so you won’t notice the punch-hole. That’s true; however, due to the positioning of the speakers, if you hold your phone in this way your hand will also cover both speakers, muffling the sound.
+
+If you rotate the phone 180 degrees to watch or play the other way, the camera cut-out is visible, and sits right in the spot where maps typically appear in games, which is pretty annoying (the phone is also a bit harder to hold this way round, since the camera array which would otherwise provide a natural grip is too low down to do so).
+
+We constantly had problems when trying to play games on the Xiaomi Mi 10 Pro in landscape, unless we purposefully held our hands in such a way that they didn’t cover the speakers. Of course, if you use wired headphones this won’t be a problem, but it’s a shame you can’t game on this phone in what should be a natural-feeling way without compromising the experience.
+
+Another issue we had when gaming, and with a few other functions, is that the curved edges of the screen would often not register our touches. There were countless occasions when we were trying to play a game and had to tap several times to select something right at the top or bottom of the screen, which isn’t ideal.
+
+The impressive screen does at least mean that movies and games look good, if you can enjoy them without the punch-hole getting in the way and can get around the speaker issue.

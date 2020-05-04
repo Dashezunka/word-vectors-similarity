@@ -1,0 +1,49 @@
+Like many others, I have been spending my weekends in relative isolation, without much entertainment — namely, the NBA and NCAA seasons/playoffs getting delayed indefinitely/cancelled. As a result, five days ago I set out to teach myself python — what better first project than to analyze basketball?
+
+The problem-statement and high-level approach
+
+An age-old argument has been the distinction between winning versus overachieving with the cards been dealt. Is it more impressive to win with a team of superstars or carry a sub-par team deep into the playoffs?
+
+Perhaps the most talented team of all time
+
+However, the crux of this argument relies on defining what carrying a team actually means — while statistics can’t fully depict the intricate realities of basketball, it is more than enough to understand 80% of the picture.
+
+I decided to take Value Over Replacement Player (VORP) as a proxy for the impact of a player. VORP is cumulative Box Plus-Minus (BPM), which is, at a high level, a regression of box-score stats with wins. While advanced stats such as RPM have been shown to be better predictors, we only have historical data for box-score derived advanced stats.
+
+By dividing a player’s playoff VORP by the team’s total playoff VORP (% VORP), I am able to roughly quantify how much a player carried a team; that is, how much did the player contribute to the team’s overall level of success.
+
+I also decided to only look at players who have played 10 or more games in the postseason — while a completely arbitrary cutoff, I believe it does a good job at removing statistical anomalies/outliers, and it also ensures that the player actually had a competitive playoff run. See the criticism section at the end for criticisms of my assumptions.
+
+The details of the process (trust the process)
+
+My go-to site for basketball statistics is Basketball Reference. I figured that by looping through teams and years, I could scrape the “playoff advanced statistics” table for each iteration using Python and related packages (Beautiful Soup & pandas). Right off the bat, one of the problems I ran into was that parts of tables are rendered dynamically.
+
+The green text indicates that it is being loaded dynamically
+
+Luckily, I was able to find a link to a static table in their “Embed this Table”. Using this link, I was able to set up a nested “for” loop that loops through each individual year and team combination, with each iteration scraping the table and appending to a cumulative pandas DataFrame.
+
+Another problem was that since I wanted to analyze all statistics since 1977, I needed to get a list of all team codes (e.g., “CHI” for Chicago) — even for teams that either no longer exist, or have since changed names. Unfortunately, I wasn’t able to find a list online that I could use, so I had to input all team names manually.
+
+Many of these teams only existed before 1977, but I wanted to have the option to scrape even further back
+
+Without further ado, here’s the rest of the code — not as efficient as it could be, but in my (totally unbiased) opinion not bad for a complete beginner who’s working 70+ hours a week.
+
+The except:pass is definitely not best practice — but was sufficient for my purposes
+
+The results (TL;DR mostly what you would expect with some nuances)
+
+After letting the code loop for around an hour and a half, I was able to pull the top 10 results into excel, and visualized the entire DataFrame in Tableau.
+
+The usual suspects….but also some surprises!
+
+Looking at the top 10 results, most names check-the-box: Lebron James, Michael Jordan, Kareem Abdul-Jabbar, Hakeem Olajuwon, etc. (keep in mind that I set out to quantify who carried their teams the most, not who was best — many legends won’t be on this list because they had a great supporting cast e.g., Larry Bird, Magic Johnson) Also notice that none of these teams won a championship — backing the theory that no one can win a championship alone.
+
+The most interesting suspect to me was Nikola Jokic — who, in my opinion, is the best center in the game and an extremely underrated player. At first glance, I wouldn’t have expected Nikola Jokic to show up in the top 10 list (I admittedly did not watch much of the 2019 NBA playoffs), but looking at his stats, it makes total sense: averaging 25/13/8.4 (yes, 8.4 assists per game!) on 59.6% TS. Just as importantly, he doesn’t have another true star player on his team.
+
+I also ran some additional analyses / made some interactive tables with the entire dataset in Tableau.
+
+The Tableau dashboard can filter for individual player names
+
+A critical self-reflection on my approach
+
+Looking back, I was able to identify a few criticisms of my assumptions:

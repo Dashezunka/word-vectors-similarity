@@ -1,0 +1,121 @@
+One of the three companies NASA announced today will land the next NASA astronauts on the Moon. NASA awarded three firm-fixed-price, milestone-based contracts for the human landing system awards under the Next Space Technologies for Exploration Partnerships (NextSTEP-2. The total combined value for all awarded contracts is $967 million for the 10-month base period.
+
+NASA downselected from the five companies in the running to only three.
+
+NASA released the Human Landing System (HLS) solicitation on October 25, 2019. Five companies submitted proposals by the required due date of November 5, 2019. Listed below in alphabetical order:
+
+Blue Origin Federation, LLC (Blue Origin)
+
+The Boeing Corporation (Boeing)
+
+Dynetics, Inc. (Dynetics)
+
+Space Exploration Technologies Corp. (SpaceX)
+
+Vivace Corp. (Vivace)
+
+You likely recognize the more high profile companies like Boeing, SpaceX, and Blue Origin. Vivace and Dynetics profile in the general media tends to be less pronounced.
+
+Vivace, founded in 2006, provides engineering services, ground support equipment, engineering development hardware, and flight hardware for commercial space programs. Vivace facilities include engineering and production in Texas and Louisiana. https://www.vivace.com/spaceflight-systems
+
+Credit Vivace
+
+Dynetics, a wholly-owned subsidiary of Leidos, provides engineering, scientific, IT solutions to the national security, cybersecurity, space, and critical infrastructure sectors. Our portfolio features highly specialized technical services and a range of software and hardware products, including components, subsystems, and complex end-to-end systems. The company of more than 2,500 employees is based in Huntsville, Ala., and has offices throughout the U.S.
+
+Dynetics proposed a corporate alliance with more than 25 subcontractors leverages the specialized capabilities for the larger elements and the smaller system-level components. Dynetics provides the overall project management and final integration on military and defense contracts with large subcontractor teams. www.dynetics.com.
+
+Blue Origin leads a multi-company team including Lockheed Martin, Northrop Grumman, and Draper. The Blue Origin proposal includes a three-stage Integrated Lander Vehicle (ILV). The offer leverages several proven spaceflight technologies and the partner companies to Blue Origin have heritage back to the Apollo program.
+
+SpaceX thrust itself into the limelight after progressively winning contracts from NASA. After winning commercial transportation contracts and crew delivery contracts, SpaceX started developing the Starship and booster to enable the colonization of Mars.
+
+The SpaceX starship offer provides NASA with a fully reusable launch and landing system with more than capabilities just to land on the Moon. SpaceX conceptualized the Starship for travel to the Moon, Mars, and other destinations. Starship includes a spacious cabin and two airlocks for astronaut moonwalks.
+
+Boeing’s lander concept consists of a descent and ascent stage with the descent stage being able to deorbit the lander. The lander design allows it to be launched on an SLS Block 1B rocket rather than assembled in space after multiple launches, simplifying the mission and reducing risk. The lander maintains independence from the Lunar Gateway and can dock with Orion directly.
+
+Credit Boeing
+
+Well, NASA didn’t pick just one. NASA selected Blue Origin, Dynetics, SpaceX for the Artemis Human Landers. Although, only one company will produce the craft landing NASA astronauts on the moon for the first time since the 1970s.
+
+NASA’s 1 billion dollar award leads the three remaining companies to contend for further awards.
+
+NASA selected the lunar lander service providers based on three key Evaluation factors. Total evaluated price, Technical approach, and Management approach. Total Evaluated price represents the net cost of the program to NASA and the investment required to realize the design concept.
+
+The Technical approach NASA evaluated the proposals based on several subfactors:
+
+Technical Design content
+
+Development, Schedule, and Risk
+
+Verification, Validation, and certification
+
+Insight
+
+Launch and Mission operations
+
+Sustainability
+
+Early System Demonstrations
+
+The last factor, Management Approach NASA further distilled into:
+
+Organization and Management
+
+Schedule Management
+
+Risk Reduction
+
+Commercial Approach
+
+Past Performance
+
+Small Business Subcontracting Plan
+
+Data Rights
+
+Based on the findings, NASA provided the following feedback:
+
+Blue Origin was noted to have the highest Total Evaluated Price among the three offerors. Blue Origin’s offer ranked at approximately the 35th percentile in comparison to the Independent Government Cost Estimate. Dynetics’ and SpaceX’s pricing evaluation lands them closer to the 10th percentile. Based on an evaluation of the expected costs and available budgets, NASA determined sufficient funding allocation existed to fund all three offers for an additional period of 10 months.
+
+A further downselection in 2021 adds suspense. The best overall results over the next 10 months dictate which company moves forward to landing the first female on the Moon for NASA. To maximize contract award likelihood, each company needs to demonstrate substantial progress towards the goal.
+
+In the case of SpaceX, NASA’s evaluation found the Starship particularly suitable for the lunar mission profile. NASA cited the flexibility that Starship provides to do multiple extravehicular excursions (EVAs) as a major plus. NASA also indicated that Starship presented sufficient capabilities for mass to the Moon and back.
+
+NASA also expressed optimism about the long term costs. The SpaceX design provides for
+
+Credit SpaceX
+
+On a downside, SpaceX fell short of NASA’s expectations regarding the reaction control system(RCS). NASA shared concern that the RCS possesses a technical risk based on the maturity of the complex technology. NASA believes that the Starship RCS needs additional time to mature and anticipates potential delays.
+
+NASA also expressed concern over the complex nature of Starship and SuperHeavy booster operations. NASA explained that the multiple launches, rendezvous, and in-orbit fueling require operational excellence executed precisely. To offset these risks, SpaceX plans to demonstrate technologies through rapid testing and iterative design.
+
+NASA reduced the SpaceX score based on SpaceX’s record of performance on two relevant contracts. First, the Commercial Crew contract for the development of its human-rated Crew Dragon vehicle saw considerable delays. Additionally, the Air Force Orbital/Sub-Orbital Program 3 (OSP-3) contract SpaceX used for the development of the Falcon Heavy launch vehicle exhibited considerable schedule delays.
+
+Blue Origin’s technical proposal showed two substantial strong points. First, NASA felt that the Blue Origin Proposal proposed a highly effective, human-centric approach for rendezvous, proximity operations, and docking. NASA also felt the Blue Origin proposal meet or exceeded all of NASA’s threshold requirements for habitation and landing accuracy.
+
+NASA also felt Blue Origin’s inclusion of two other primary partners (Lockheed Martin and Northrop Grumman) substantially benefited the offer. Both demonstrated extensive experience in spaceflight system design, development, and test and operations. The parallel development by the team members for key elements in the proposed Integrated Lander Vehicle proved positive for the offer.
+
+Credit Blue Origin (and team)
+
+Blue Origin’s power and propulsion system accounted for concern by NASA. According to NASA, manufacturing, integration, and testing of the power and propulsion system represents a significant risk to the program. Basically, NASA stated that the system’s low technology readiness level (TRL) needs maturing and further development.
+
+Schedule risk appears a concern for Blue Origin’s proposal. “Work that must proceed precisely according to Blue Origin’s plan, including occurring on what appears to be an aggressive timeline.” NASA liked Blue Origin’s Descent Element (DE) propulsion system novel approaches for achieving overall performance gains but expressed concern of higher complexity. Since the system historical experience contains no flight history, a development schedule risk exists.
+
+Blue Origin lost out on several projects to SpaceX in the past. In this proposal, NASA did include a fair amount of praise for Blue Origin, which may indicate things will be different this time. NASA highlighted the Blue Origin proposes a strong commercial approach that “aims to use HLS capabilities and technologies to accelerate the development of a cislunar economy by making cargo and crew missions more affordable, available, and efficient.”
+
+Of the three proposals selected for advancement, the Dynetics proposal appears to be the strongest. NASA awarded Dynetics “Very Good” marks for both technical and management. Paired with the positive marks for cost, Dynetics appears to be NASA’s current favored choice.
+
+NASA iterated the Dynetic’s proposal meet or exceeded all of the 2024 Human Landing systems schedule requirements. NASA particularly liked the placement of the crew compartment, flight controls, and windows. The effective human factors considered in the design potentially raises the effectiveness of the crew and lowers risk.
+
+Dynetics highly innovative integrated horizontal drop tank Descent/Ascent Element architecture requiring only two primary development efforts.
+
+Complex crewed spacecraft Moderately complex fuel element.
+
+NASA felt offering a unique alternative to the traditional three-element design for an HLS, Dynetics’ two-element design minimizes mission risk and is directly responsive to the solicitation’s call for “innovative solutions from the contractor(s).”
+
+Credit Dynetics
+
+NASA evaluation of Dynetics’ proposal did find one significant weakness. Dynetics’ power and propulsion system introduced an appreciable risk of unsuccessful contract performance from both a technical and development schedule standpoint. The complex system and relies upon technologies that are at relatively low maturity levels or not yet developed for Dynetics’ proposed application. NASA felt the development pace would be an unprecedented pace.
+
+If successfully developed and implemented Dynetics’s propellant storage solution provides a more mass-efficient system, which will in turn increase overall performance margin for Dynetics’ HLS capability. This was a major plus for the Dynetics proposal.
+
+In the end, any horse could still win this race. A lot can happen in three years. NASA will need to update the graphic for the Moon landing to include the correct lander design.

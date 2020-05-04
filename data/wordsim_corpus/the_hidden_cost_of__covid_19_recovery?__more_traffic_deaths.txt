@@ -1,0 +1,57 @@
+Covid-19 has emptied city streets (above, Chicago in April), but if people avoid public transit and air travel when the economy reopens, a traffic surge could lead to greater street fatalities and pollution. (Flickr / Don Harder)
+
+The hidden cost of Covid-19 recovery? More traffic deaths
+
+A trove of evidence suggests that, if driving soars when the economy reopens, many lives will be lost to vehicle fatalities and emissions — even long after the virus fades.
+
+China has offered a glimpse into the future since the start of the Covid-19 pandemic, and if that insight continues, a lot of Americans will be buying cars pretty soon. Earlier this month, Bloomberg reported a surge in car purchases in Wuhan, the origin of the outbreak, with sales reaching pre-lockdown levels mere days after the city reopened. Trying to explain the rush, one dealer suggested that many people “see personal vehicles as safer than public transport.”
+
+For many Americans, personal vehicles have provided a sense of safety since the start of the outbreak, with people taking to their cars to get a test at a drive-in clinic, pick up curbside groceries, or retreat from the crowded city center. Though driving levels have plummeted during restrictions, history shows that vehicle miles will soar as the economy reopens if fear leads people away from transit, trains, and planes. Sure enough, Axios reports this week that many Americans are starting to drive again but avoiding transit.
+
+Unless cities and local authorities work hard to improve the (real and perceived) safety of these travel alternatives, research suggests that the result will be a long tail of Covid-related deaths resulting from vehicle crashes and pollution—a hidden cost of the virus we should strive hard to avoid.
+
+The danger of trading flying for driving
+
+Studies on car-related deaths conducted in the aftermath of 9/11 offer a peek at what could come. In addition to creating a natural fear of flying, the attacks also led to enhanced security measures, such as tougher TSA screenings and carry-on restrictions, that made air travel less convenient. One analysis found that 9/11 resulted in an immediate dip in flight demand of more than 30 percent, with a lingering decline of more than 7 percent that lasted at least two years.
+
+Early indications suggest air travel will take an even greater hit in the aftermath of Covid. Airline capacity is down 70 percent (compared to just 19 percent immediately post-9/11). Flights may get more expensive, as airlines try to recover lost revenue. New safety tests, such as temperature checks or immunity certificates, will add to the inconvenience of air travel, even as they improve passenger safety.
+
+For these and other reasons, McKinsey predicts that airlines won’t see pre-pandemic demand levels “until 2022 at the earliest.”
+
+If history is any indication, car travel will pick up the slack during this period, and car crashes will spike as a result. Much of the evidence for this tradeoff comes from behavioral scientist Gerd Gigerenzer. In the aftermath of 9/11, Gigerenzer conducted a series of analyses showing that, within just three months of the terrorist attacks, more Americans lost their lives on the road while trying to avoid air travel than died in the attacks themselves.
+
+In a highly cited study, published in a 2004 issue of Psychological Science, Gigerenzer compared driving trends in the three months immediately following 9/11 to those from the preceding five years. Gigerenzer estimated that roughly 350 more fatal crashes occurred during the October-December 2001 period than would have been expected based on traffic fatality trends going back to 1996.
+
+This long tail of 9/11 deaths continued for quite some time. In a subsequent paper, Gigerenzer estimated that, by September 2002, nearly 1,600 more Americans had died on the road than pre-9/11 trends would have expected. A separate study by a team of economists concluded that the trend of substituting air travel for driving didn’t abate until October 2003 — at which point some 2,300 total traffic fatalities could be attributed to this shift.
+
+While it’s hard to say for certain that the attacks caused this change in behavior — and while not every study reached the same conclusion — the evidence on the whole supports that case.
+
+Across the U.S., people drove on average 27 more miles per month after 9/11, far exceeding the 10 more miles a month they averaged in the five years leading up to the attacks. Driving deaths outside a person’s home state increased more than in-state deaths, 25 to 15 percent, suggesting longer trips that might otherwise have been made by flying. By one estimate, traffic fatalities in the Northeast — where the pain of the attacks was most acute — increased 40 percent after 9/11, compared with an 11-percent rise for the rest of the country.
+
+The danger of trading transit for driving
+
+It wasn’t just intercity travel that changed after 9/11. Research has found that people altered local trip patterns, too. An analysis by transportation scholars Michael Sivak and Michael J. Flannagan concluded that most of the post-9/11 rise in driving took place on local roads, including local urban roads. One result of this local traffic spike was that pedestrian and cyclist fatalities were “proportionally greater” than those of people in cars. They conclude:
+
+This implies that unprotected traffic participants bore a disproportionate share of the consequences of the partial modal shift from flying to driving after September 11.
+
+If Covid-19 leads people away from public transportation, in addition to flying, we’d expect to see similar trends in cities in the months and years ahead. A study of travel behavior following attacks on London’s subway system in 2005 found a subsequent surge in cycling deaths, attributing more than 200 fatalities to a shift away from transit use. (While this work found no rise in driving deaths, car-bike collisions of course end worse for the cyclist.)
+
+Perhaps the most powerful study of the public health dangers that result from substituting transit for driving comes from an analysis of 71 transit strikes in German cities over nearly a decade. The researchers found that, on these days, there were up to 4.3 percent more cars on the road during morning rush-hour, with a 14 percent increase in vehicle crashes and a 20 percent rise in traffic injuries. They conclude:
+
+Taken at face value, our results seem to provide strong evidence in support of the opposite position: that mass transit — just as the police or firefighters — is critical to public safety and health on a day-to-day basis.
+
+Pollution and gas prices will extend the tail, too
+
+A shift toward driving away from public transit brings with it a rise in vehicle emissions as well. Indeed, the study of German transit strikes found that particulate matter (a common form of pollution) increased by 14 percent on these days. This dive in air quality takes its biggest toll on children: Hospital admissions related to respiratory diseases or breathing difficulties for kids under age 5 increased by 11 percent during the strikes.
+
+All told, during the 71 transit strikes, 67 more children were admitted to hospitals than would have been expected by normal trends — nearly one child each day.
+
+Little surprise, other research has reached similar conclusions. A study of air pollution during transit strikes in Barcelona found a rise in pollutants between 4 and nearly 8 percent during strike days, compared with non-strike days. Subsequent research on Barcelona transit strikes found a link between these closures and respiratory mortality and hospitalizations (although the work couldn’t find a direct connection with air pollution).
+
+That relationship is especially troubling given the link between pollution and Covid-19 severity. Harvard researchers have found that small increases in particulate matter are associated with an 8 percent increase in the Covid death rate. As I suggested previously, this connection would seem to justify a small pollution tax for (non-electric) driving until the pandemic fades — a seemingly reasonable burden given “unprecedented” low gas prices.
+
+Of course, low gas prices will lead to more driving, too. Historically, gas prices have been among (if not clearly) the most decisive factor in determining whether people shift from transit to driving. Researchers have consistently shown that as cheap gas leads to more driving, more traffic deaths result. One study found that car fatalities rose more than 2 percent (over a two-year period) for every 10-cent drop in fuel cost.
+
+To be sure: None of this evidence dismisses the very natural fears people have of contracting the virus in crowded transit, trains, or planes. Restoring confidence in these trip options will be among the toughest tasks facing governments and businesses alike in the months and years ahead. But unless that effort becomes an urgent focus, too many of the lives saved by the severe pandemic restrictions will be lost in the easing of them.
+
+Follow Sidewalk Labs with our weekly newsletter and our podcasts.

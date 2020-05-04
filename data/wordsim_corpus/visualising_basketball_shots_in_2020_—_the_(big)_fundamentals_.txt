@@ -1,0 +1,95 @@
+Visualising basketball shots in 2020 — the (big) fundamentals.
+
+Using data visualisation to understand where shots come from in modern basketball, and why — using simple graphics.
+
+On this blog, I have written about data visualisation in related to many subjects, and also about how to create these visualisations.
+
+Having said that, the primary topic that I’ve written about using visualisations has been basketball. I love watching basketball, and started looking into the data to better understand what makes certain players good, what makes them bad and how a player affects teammates or opponents. Then I looked into data visualisation because it helped me to see the data.
+
+Given that there are no games on (and won’t be for a while), let’s step back a bit. This post talks about the league in general, and the fundamental concepts that I expect to use in the analysis. We’ll use the league-wide data to do this, and hopefully this gives us some common ground to stand on and have quality discussions.
+
+With that said, let’s start at the beginning — with shot charts.
+
+Mapping shots
+
+Basketball is a fluid, dynamic game. The ball flies from side to side and end to end and players constantly run around the court and each other, often creating a blur of bodies and limbs moving around the ball.
+
+All of this is in service of one goal — to shoot the basketball, and get it through the hoop (or to prevent the opponent from doing so).
+
+A few years ago, some very smart folks like Kirk Goldsberry started to look basketball through its geography, and where its shots come from. One of the techniques used in visualising basketball shots is called hexbin plots.
+
+It allows the court to be divided into small, equally sized hexagons, and map whatever averaged properties for each hexagon. Below, I colour these hexagons by how often shots came from each area (‘ frequency’ in statisics-speak).
+
+Hexbin charts, showing shot frequency
+
+The plot captures all 220,000 or so shots taken during the 2018–2019 NBA season. Shots are clearly concentrated on the close range within the restricted circle, and outside the three point line. Plotting the shot frequency (of the whole) by distance from the basket tells a similar story.
+
+Most shots are taken at the under 4 feet range (in the restricted circle), or past the 23 feet range. This is an odd distribution at a glance, because you might expect the shot frequency do decrease linearly over distance. Investigating the shot value from each area tells us the answer, however.
+
+Shot accuracy and value
+
+To understand why NBA players shoot so much from distance, we need to understand two key factors, which are accuracy, and shot value. It seems obvious that shots would become less accurate as we move away from the basket. (If you’re not sure, go outside and try jacking up some 25-foot shots, then try a few shots from 5 feet, and come back. I’ll wait.)
+
+Just how much less accurate do shots become across this range? Well, take a look:
+
+Remarkably, average shot accuracy for NBA players barely moves between the range of 4 feet to 21 feet, and even shots from between 28–29 feet are being made these days at an average of 33.9%. For comparison, shots from 5–6 feet have a 38.3% accuracy.
+
+Now, this obviously is an average. It is affected by many factors including who is taking shots, and what the defence is doing. This chart does should not be read to say that shooting from 5–6 feet is equally difficult as shooting from 24–25 feet, which has 37.6% accuracy. Better shooters are shooting more often from further away than worse shooters. But the percentages have clearly even out to something of an equilibrium at around 50%.
+
+And yet, while each shots are being made at a similar accuracy to each other, shots from 24–25 feet are awarded 50% more points than 5–6 feet. This is the key to the modern NBA.
+
+What measure would capture the effect of this reward system? The answer is expected (or average) shot value.
+
+This plot shows the (statistical) value of per shot; in other words, how many points a shot would generate on average. The additional value from the extra point is shown in orange, and it is huge, as shown in this chart.
+
+Thanks to the extra point being awarded per shot, it is almost as beneficial to shoot from 24–25 feet as it is to shoot from 2–3 feet from the basket. Another advantage that a longer shot has compared to the shorter shot is space. On a basketball court, there’s a lot more space that is 24–25 feet from the basket than there is 2–3 feet from the basket. Take a look at this:
+
+The opponents need to cover a much greater area to cover the 24–25 feet shots (orange) than they would for the 2–3 feet shots (blue). Additionally, having to cover this much ground and this far out means it creates even more spacing elsewhere on the floor. The inside/outside game is symbiotic and complementary, being good at one opening up opportuinities with the other.
+
+Total shot frequency by distance
+
+Turning back to the statistics, the distribution of total shots in the NBA by distance looks as below.
+
+Almost a third (31%) of all shots come from within 4 feet, between 4 and 22 feet is about the same amount, and the rest is from beyond the 3 point line.
+
+This also helps us to divide up the court into a few distinct areas. Remember the hexbin plot above, dividing up the floor into tiny hexagons? We can group some of them together, which will allow us to look at the statistics by areas. This is also valuable as it allows us to smooth out statistics from very small sample sizes. (There’s not much value in stating that a player is 4/10 from one spot 25 feet from the basket, and 6/10 from an adjacent spot — it’s probably just randomness, rather than that player being a much better shooter from the second spot.)
+
+Divide & conquer
+
+Now, we have enough information and intuition to divide the NBA court into zones. For mere mortals not named Curry or Lillard, anything longer than 32 feet is mostly desperation heaves so we will just group 32+ footers as one big zone. Moving in from there, three pointers are divided into corners, normal 3s and long 3s. The midrange is divided into 3 sets of distances, and leave around the rim shots, grouping everything within the restricted area diameter.
+
+Additionally, we’ll divide up most court further by their angle — left, middle or right. The resulting zones are plotted below, with each one in different colours:
+
+NBA court in zones
+
+In some cases, we might combine hexbin data with zone data, keeping the hexbin frequencies, while smoothing out the shot percentages by using zone data.
+
+That was a lot of relatively abstract discussion — how would this zoning work practically? We will wrap up this article with some practical examples.
+
+The Offenders
+
+In the 2018–2019 regular season, the Warriors had the best FG% and points/100 possessions, and the Knicks had the worst in both categories. Let’s compare the two offences.
+
+GSW (left) and NYK (right) shot charts
+
+The Warriors’ shot chart is on the left, the Knicks are on the right. Sizes of each hexagons indicate how often the team shot from that particular point (hexagon), and the colours come from the average shot percentage from that entire zone (coloured area above)as divided up.
+
+This creates a great visual effect where we can see specific locations of shots, without being overwhelmed by large swings in percentages that might be caused by small sample sizes.
+
+These plots allow us to evaluate the two teams easily. The Warriors are clearly better everywhere, and very strong from the right side (right from the players’ perspective, so left in our images).
+
+If I was to pick nits, the problem with this plot might be that it’s hard to see the relative differences with these colours and we don’t know how they compare in comparison to the league average (which looks like this).
+
+The shot chart for the entire NBA
+
+So let’s take a look at the relative statistics, and mark the colours that the areas worse than average are marked blue (as in, cold shooting) and better than average areas in red (hot shots!).
+
+The shot chart for the entire NBA
+
+We’ve essentially expanded the scale by allowing us to look at two directions (negative and positive), and also by looking at relative numbers, which are smaller. The Warriors are better than the league average in almost all areas, and the shooting from the right side is just an absolute bloodbath. Meanwhile, on the right, the hapless Knicks are ice staking around on the frozen sea of blue.
+
+How much better does that look?
+
+Okay. I hope that was interesting. If you are a coder and would like to read more about how I went about coding some these, check out my earlier article here:
+
+If you liked this, say 👋/follow on twitter, or follow here for updates. See you next time!

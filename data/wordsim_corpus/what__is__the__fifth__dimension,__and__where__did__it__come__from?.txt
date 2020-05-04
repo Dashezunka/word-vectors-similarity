@@ -1,0 +1,49 @@
+Kick a cube across the floor. Hard. In the few seconds it’s in motion for, you’re seeing four dimensions in play. The first three are hight, width, and depth. You can see these on the cube itself, you don’t even need to kick it to get a feel for them. The last one is time, and you see this one over the progression of its movement. This dimension is time. Although we can’t really see time itself, the progression of distance is probably the closest you’ll get, and it does make sense in this simulation.
+
+That’s four dimensions — but most of the time, especially when discussing the properties of spacetime, there’s an additional fifth dimension added in, too. This is considered to be a micro-dimension, rather than one of the full-fledged ones you can see by kicking a cube across the floor. Even with the four pre-discussed dimensions, these are already what we consider to be “the fabric of spacetime”.
+
+An example of a four-dimensional graph, which represents the three physical dimensions as well as time.
+
+Instead, the fifth dimension came around when physicists were trying to connect all parts of the universe in a way that made sense — or rather, they wanted to try and connect all the fundamental forces known in the universe, in a way that would make sense. This became known as the Kaluza-Klein theory, which has the ultimate goal of connecting gravity and electromagnetic force into a fifth dimension.
+
+The Mathematical Stance Of The Fifth Dimension
+
+Later on, these calculations were found to be slightly inaccurate, but they provided basis for a later mathematical claim which surrounds the fifth micro dimension. The first calculations, done in the Kaluza-Klein theory, involved rolling the fifth dimension into a dense loop, which would’ve been about 10 to the negative 33 centimeters big.
+
+From this point, Oskar Klein figured that light was something that occured more in the fifth dimension, and what we saw of it was a more diluted version. Think of it like when you swim underwater in a pool, and there are ripples on the still surface. You’d perceive the ripples as shadows, rather than the ripples they actually were. This is how Klein thought of light, having the majority of it occur in the fifth dimension.
+
+It was in this way he was able to draw up a connection between the two main forces of gravity and electromagnetism, which otherwise seem indirectly related in our perceivable universe. Later, this whole idea phased into the idea of superstring theory and supergravity, which later evolved into M-theory. Ultimately, the Kaluza-Klein theory has become more of a gauge theory, meaning it fits into a certain type of field theory in which the Lagrangian doesn’t change under local transformations.
+
+An example of how this fifth dimension might be represented.
+
+When we actually look at what suggestion to a fifth dimension there is, it isn’t a lot. The fifth dimension would be incredibly difficult to see, at any rate, because we’ve already established that it’s one that isn’t “perceivable to us”. Just like swimming underwater, you don’t see the ripples. Same here — you won’t be able to see the fifth dimension because it’s above you, on a different plane.
+
+However, that doesn’t necessarily mean that it’s time to give up all hope — rather, it’s time to check out the evidence that’s already been acquired, mostly by the Large Hadron Collider, one of the largest particle colliders in the world.
+
+Knowledge We’ve Got Suggesting The Fifth Dimension
+
+The most valuable thing to note here is that we’re still suggesting a fifth dimension. While it’s pretty well accepted in the physics and mathematical communities due to the amount of sense it makes when talking through equations, we still can’t really observe and fully confirm its existence. However, with the help from the Large Hadron Collider, there’s been more suggestion to its prominence in the universe.
+
+A look into electric gravity, a theory which suggests the combination of these two big fundamentals.
+
+Here, there’s the idea that collisions of subatomic particles result in the production of additional particles, one of which could be the theoretical graviton. In this scenario, the graviton leaves the fourth dimension, and “leaks” into a fifth dimensional bulk. Through this, there’s more of an explanation which comes from why gravity is so weak.
+
+Although we consider gravity to be relatively strong, it’s considered to be weak due to how easily it can be overcome in certain circumstances, especially by other forces. Think about building an electromagnet. With the electromagnet, you can lift objects. This ultimately is pulling them from the gravity, making the electromagnet a stronger force.
+
+By suggesting a five-dimensional space, having gravity be weaker force makes slightly more sense, which is why it’s widely considered to be a theoretical construct, especially when discussing physics. Not only that, but it’s said to be a micro-dimension due to the fact that it doesn’t have full access to us — since we aren’t able to see it, even though we interact with it.
+
+Think of it in reference to what we know as colonists in colonial America as compared to the rule of Great Britain. In this case, colonial America represents the four dimensions which are interacted with. However, England (or GB) didn’t really have the same nature of being present in colonial America, and although they interacted with it somewhat, it wasn’t there for much of the time.
+
+Lastly, it makes way for other theories that do need more than one dimension and that need this seamless tie between the fundamental forces. Later on, the Einstein-Maxwell theory worked with the fifth dimension, trying to get it so that it would be derived from a distance. Initially, the idea had been to try and fit electromagnetism into its own slot in what we know as spacetime, but that didn’t quite work. Up to this point, the suggestion and usage of the fifth dimension is the best we’re going to get.
+
+What This All Means: A Little TL;DR
+
+The fifth dimension is a micro-dimension which is accepted in physics and mathematics. It’s here to have a nice and seamless tie between gravity and electromagnetism, or the main fundamental forces, which seem unrelated in the regular four-dimensional spacetime.
+
+As of now, we can’t see the fifth dimension, but rather, it interacts on a higher plane than we do. It’s because of this that we can’t really study nor fully prove it’s existence.
+
+Despite this, there are theories which have been run through the Large Hadron Collider, which have helped support and suggest the idea of having gravitons transition from the four dimensions to the fifth one.
+
+Still, the fifth micro-dimension stays, because it’s able to help along and support other physics theories which make more sense when you take a look at how the dimensions themselves are constructed.
+
+Thank you so much for reading this, and I hope you had fun getting a chance to (hopefully) learn something about the fifth dimension! If you’d like to talk (I always would love to!) please email me at amesett@gmail.com, or find me on LinkedIn under Amelia Settembre.
