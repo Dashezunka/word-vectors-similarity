@@ -1,0 +1,37 @@
+The history of computers wouldn’t be complete without one word! Can you guess what that word is? It’s a pretty big one! This week we’ll learn that word and we’ll learn that computers are older than dinosaurs!
+
+What art thou (O Man) and from whence hadst thou thy beginning? What matter art thou made of, that thou promisest to thy selfe length of daies: or to thy posterity continuance. I haue read the truest computer of Times, and the best Arithmetician that euer breathed, and he reduceth thy dayes into a short number: The daies of Man are threescore and ten. That reuerend Patriarch Iacob, (though he had liued a long and prosperous time) yet he confesseth his daies to be few and euill: the life of Man (saith the Prophet) is as the grasse that soone — Excerpt from The Yong Mans Gleanings by Richard Brathwaite
+
+No, this isn’t literature hour, though The Yong Mans Gleanings is a wonderful piece of literature that you should read. But, there was one word in that excerpt above that should stand out to you, did you hear it? No? I’ll provide a hint, the excerpt above was written in 1613. Did that hint help? I’ll make it a little easier.
+
+What art thou (O Man) and from whence hadst thou thy beginning? What matter art thou made of, that thou promisest to thy selfe length of daies: or to thy posterity continuance. I haue read the truest computer of Times, and the best Arithmetician that euer breathed, and he reduceth thy dayes into a short number: The daies of Man are threescore — Excerpt from The Yong Mans Gleanings by Richard Brathwaite
+
+You couldn’t miss it there could you? Richard Brathwaite used the word computer in his book, his book written in 1613! How can this be? Well, that’s the subject of our next major milestone in the history of computer science. Richard Brathwaite was an English poet born in 1588 and little did he know he would start something big, he would be the first to write the word computer (Garfinkel and Grunspan 28).
+
+According to the Oxford English Dictionary, the word computer was first verbally used in 1579, although this is difficult to verify (Garfinkel and Grunspan 28). But written words are much easier to record. This is why Oxford credits Richard Brathwaite as the first individual to use the word computer (Garfinkel and Grunspan 28).
+
+But so what? None of this yet addresses why Richard Brathwaite could even use the word. Computers are recent inventions, not invented until the twentieth century. How did he know how to use the word? In addition, this doesn’t answer the absurd claim made in the title! Of course dinosaurs are older than computers!
+
+See, the word computer once had a different meaning.
+
+I’m getting to both, I request your patience. See, the word computer once had a different meaning. For when Richard used the word, he was speaking of a computer nearly as old as time itself. Richard was referring to himself, to you, and to me. Richard was talking about the human computer.
+
+See, the word computer was used only in reference to humans until the 1940s. The context in which we find the word in the book is within the context of a human counting numbers, years, and generally completing math. Human computers…computed.
+
+For those who remain skeptical, it would be important to review the origin of the word computer. The word, like many in the English language, is a compound word, built from two Latin roots. We see two parts of this word, com-puter. Com originates from the Latin meaning, “together.” Puter originates from the Latin word putare meaning “to think or trim” (Garfinkel and Grunspan 28). At first this origin may seem strange, but a vocabularist with the BBC explains, “The link in sense seems to be tidying, setting to rights, balancing an account, reckoning up” (“The Vocabularist”).
+
+Put simply, the word computer is strongly related to the process of math.
+
+Put simply, the word computer is strongly related to the process of math. Even in modern English it’s relatively common to refer to someone doing math as “computing the answer,” thus that human is a computer.
+
+But there’s another aspect of the word, the time period in which it was invented. The word seems to have arisen during the same period as the Enlightenment (Garfinkel and Grunspan 28). During the Enlightenment, the world switched from one of kings, monarchs, art, and philosophy, to one of democracy, freedom, knowledge, and education. Within this culture, mathematics was seen as democratic and open to all. Everyone had the ability to learn and even master math. If they did so, they could determine the correct answer from the false answer (Garfinkel and Grunspan 28). Math is very black and white, right or wrong. This differed from earlier eras where thought and artistic expression dominated the mindset of many. In the disciple of philosophy, one cannot be sure of anything in particular.
+
+Mathematics, through computation, was often seen as the one and only way to truly master the world and the mysteries it contained. Many believed that the world could “reduce all knowledge and philosophy to a series of computable, mathematical equations” (Garfinkel and Grunspan 28). Gottfried Leibniz, a German mathematician, wrote in his 1685 book, The Art of Discovery, “If controversies were to arise, there would be no more need of disputation between two philosophers than between two calculators [again referring to humans]. For it would suffice them to take their pencils in their hands and to sit down at the abacus, and to say to each other…Let us calculate” (Leibniz quoted by Garfinkel and Grunspan 28).
+
+Language is the way by which humans communicate and humans shape the language they use.
+
+One word may not seem like a major milestone of computer history, but it very much is. Language is the way by which humans communicate and humans shape the language they use. The words that humans invent, speak, and put into writing can say a lot about a culture and era. The use of the word computer even in 1613 illustrates the importance math had on culture and the direction and power men saw within. The first recorded use of the word computer in 1613 is the seventh major milestone in the history of computing.
+
+Humans were talking about computers 229 years before dinosaurs!
+
+Oh! And I didn’t forget. Computers are older than dinosaurs! The word dinosaur was invented by Sir Richard Owen in 1842 (Mullen, “Sir Richard…”). Humans were talking about computers 229 years before dinosaurs!

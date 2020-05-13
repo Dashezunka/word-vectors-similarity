@@ -1,0 +1,53 @@
+Recycling — Is it worth it?
+
+Recycling has the potential for a hugely positive environmental impact, but continues to be only partially effective at diminishing society’s environmental footprint. What’s missing?
+
+Photo by Paweł Czerwiński on Unsplash
+
+In 2016, the European Union achieved some of its highest recycling rates ever recorded. Ranging from 41% to 89% depending on the waste stream, these impressive results illustrate the progress made since the Landfill Directive was put into place at the close of the 20th century to try and reduce the amount of waste being buried. Despite this, that same year, only 12% of the total material used in the EU came from recycled material, indicating that there remains a massive gap to be filled, and that recycling, under its current form, isn’t doing enough to curb resource use.
+
+Aside from concerns related to the reuse of material, there are also many other factors to take into account. While some companies have successfully turned a profit from recycling in high-income economies, often by focusing on high-value materials, the relatively recent Chinese ban on plastic imports showed how fragile the whole ecosystem of reverse logistics can be, with recycling regularly not considered as part of the cost, and most products only really intended for a single-use. In turn, this frequently leads waste management companies to export their waste to countries where labour is cheaper; something that can have devastating consequences. For instance, a lot of the plastic that gets ‘recycled’ is sent to countries that appear on the list of biggest producers of plastic marine debris.
+
+A current attempt at solving this issue, the EU Waste Framework Directive of 2008 established a waste hierarchy that attempts to shift the focus away from the end-of-life of products, and more towards earlier phases of it. Instead of only thinking about recycling, earlier steps aim to prevent waste and reuse products as much as possible. Still, there comes a time in any product’s life where recycling is unavoidable, and this is where a properly designed product, that accounts for recycling as a part of its life cycle, can make a world of difference.
+
+Photo by Alex Fu from Pexels
+
+How recycling works
+
+To understand why recycling efficiently is so difficult at the moment, it’s worth looking into how it currently works. Once the waste is collected, there are, three methods used for separating the different materials that make up the different products we find in our lives:
+
+Mechanical
+
+Thermal
+
+Chemical
+
+Most times, they are used in combination with one another to achieve the highest possible recycling rate that will still turn a profit.
+
+Mechanical processing is anything that involves physically separating the components of the products. Sometimes this means shredding the products with a machine, but in many cases, it calls for someone to go through the waste stream picking things apart or isolating high-value components, or sorting waste that can be recycled from everything else. An example would be when your recycling waste first makes it to the facility where a secondary triage happens to make sure there mostly only remain things that are worth recycling.
+
+The thermal process consists of heating up the waste until the elements considered non-desirable are burned away. This works especially well when the melting point of what you want to keep in a product is known. For instance, you could make it easier to sort out the valuable metals from a smartphone by melting away all the less valuable metals and the plastic it contains.
+
+Finally, elements can be separated by using chemical processes. This might mean dumping waste in water if what you wish to recover has a specific density that will allow it to float above the rest, or it could mean using a specific solvent to separate glue materials. This process is often more expensive, but is finding itself to be more efficient at extracting certain materials, such as the lithium that is often found in newer batteries.
+
+Why it is inefficient
+
+With a basic understanding of the different processes we can use to separate waste, it quickly becomes obvious why certain items are hard to recycle, and why some will never make economic sense in their current form. For instance, have a look at your cellphone. It’s made up of a screen, a battery, a processing unit, speakers, a camera, and a shell that is generally a mix of plastic and metal. Now, from these components, that are often glued or soldered together, you have to extract a few cents worth of indium, gallium, tantalum, tin, palladium, silver, and many other materials. It comes as no surprise, then, that most recyclers will focus on high-value metals, such as cobalt and gold, and ignore the remaining elements, condemning them to the landfill. The same dilemma also applies to relatively simpler products. Tetra Paks are seemingly ubiquitous in the food industry, and often promoted as sustainable, but few people realize that aside from the plastic cap, there is also plastic and aluminium mixed in with the cardboard that makes up the container. While all of these materials are, in isolation, easy to recycle, it often makes little economic sense to do so once they are mixed together as is the case with Tetra Paks. The list goes on, and even when products call themselves recyclable, it’s worth asking ourselves if there is going to be a company out there that will realistically spend the time and money to separate every component from a product.
+
+Photo by Tom Fisk from Pexels
+
+Why things are not improving faster
+
+The path to better recycling is both simple and complicated at the same time.
+
+It’s simple because, in a vacuum, governments could directly impose restrictions on how products can be made, or how much has to be recycled from each product. They could charge companies that do not meet these quotas, and use this additional funding to help make recycling more economically viable.
+
+It’s complicated because innovation moves faster than legislation. Policy might be put in place for products that were relevant 10 years ago, but fail to account for more recent ones, potentially stiffing innovation that might have made the whole situation better, or giving national companies a disadvantage when compared to other international ones. There’s also the fact that a lot of the recycling is done abroad, and that manufacturers have little idea of what happens to their products once they are sold off for recycling. They might buy resources from recycling companies, but they won’t know whether that rubber comes from their own recycled tires, or from shoes that originated in another country. Finally, implementing new recycling methods can be time consuming and expensive, even when the resulting process is more efficient at handling certain waste streams.
+
+How can companies and governments improve the situation?
+
+Someone, at some point, is going to have to take the high road and implement tougher recycling laws. It’s been done before, with many countries recycling close to 100% of car lead-acid batteries for instance, as those were deemed too dangerous to the environment to simply be landfilled. Meanwhile, manufacturers that want to make a difference need to make their products easier to disassemble, something which they often fight against, as many do not like to give their users right-to-repair in the first place on account of it ‘hurting their sales’. Some countries are already moving the right way in certain areas, and better legislation is expected to come soon in others, but it remains a slow and difficult process that many countries still have to face.
+
+So what can I do as a consumer?
+
+I’m glad you ask. The products you buy will one day be facing the same dilemma outlined above. As such, the best thing to do is to consider how easy it is to recycle, and how likely it is to be economically worth doing so. Certain products, such as aluminium cans, are very easily and efficiently recycled almost everywhere, but many will need you to inform yourself about your local guidelines, making it hard to give a single recommendation. In many cases, such as with cellphones, the options are limited. One thing you can do is stay away from brands that are doing their utmost to impede what would help recycling, or avoid brands that put little effort in creating packaging that is easier to recycle or compost. It will go a long way in making recycling more viable, and pushing industries to do the right thing. Finally, as bulk options for groceries are becoming more frequent, why not start skipping the packaging entirely, when- and wherever possible?

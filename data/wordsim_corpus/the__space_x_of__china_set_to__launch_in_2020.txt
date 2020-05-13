@@ -1,0 +1,99 @@
+Galactic Energy wants to develop a Chinese equivalent of the Falcon 9 rocket.
+
+SpaceX continues to be a trend-setting company. Companies in the world now consider SpaceX a serious player in the launch industry. Other companies strive to achieve the accomplishments SpaceX did in the first ten years of operation. Even cross the pacific ocean and visit China. The SpaceX inspiration shows up in companies like Galactic Energy.
+
+Why does SpaceX inspire companies?
+
+In many ways, SpaceX became a benchmark for other new space companies. Ever since the SpaceX Falcon 1 successfully reached orbit September 28, 2008, other companies want to mimic. Although SpaceX became the first privately funded, space company to launch a liquid-fueled rocket to orbit, there are a lot of other firsts for other companies to shoot for.
+
+SpaceX strived for more than just developing a rocket. SpaceX worked to greatly reduce the access cost to space. SpaceX did this by leveraging innovative new rocket designs and manufacturing techniques. Now seemingly commonplace, the first successful landing of an orbital rocket in 2015 gripped the world. SpaceX snagged that first as well. Still, there are a lot of other space firsts available for companies to do.
+
+All over the world, people were inspired. SpaceX, Blue Origin, Virgin Galactic, and a handful of other new space companies started trailblazing new ways to launch and land rockets. The successes demonstrated by Blue Origin VTOL of the suborbital New Shepard Rocket and then the first SpaceX Falcon 9 booster to land after launching a payload to space inspired the world.
+
+SpaceX inspired a company halfway around the world.
+
+Halfway around the world, People in China have been inspired as well. Chinese companies started to pop up ranging from launch to satellites. Although the space industry traditionally limited participation in China to state-owned companies, new space companies started to appear.
+
+Chinese investors felt inspired as well. With strict limitations on US space technology exports to China, local space companies’ growth spurred on with local investments. Investors expect rapid development in China ’s commercial aerospace industry to meet the demand for commercial satellite launches. Chinese investors anticipate an exponential increase in demand, and investments flooded in accordingly.
+
+One of those companies, Galactic Energy, formed only two years ago. Galactic Energy plans to make a debut rocket launch in 2020. Galactic Energy investments poured in enabling testing on critical flight systems.
+
+China has been launching rockets for a long time, so what?
+
+True. China became the fifth nation to achieve independent launch capability. China used the domestically developed Long March 1 rocket to launch its first satellite, Dong Fang Hong 1 into Low Earth orbit on April 24, 1970. Ten years later, China established an organization focused on international commercial launch services. China Great Wall Industry Corporation (CGWIC) is the sole commercial organization authorized by the Chinese government to provide commercial launch services, satellite systems and to carry out space technology cooperation. CGWIC is a subsidiary of the state-owned China Aerospace Science and Technology Corporation (CASC).
+
+China’s entry into the international commercial launch services did not happen right away. On the 23rd of January 1989, AsiaSat and CGWIC signed a contract for the launch of AsiaSat 1. China Great Wall Industry Corporation successfully put AsiaSat 1 into the designated orbit 14 months later. China Great Wall Industry Corporation launched the satellite using a Chinese designed and built Long March 3 Rocket.
+
+I got it. Before it was Chinese State-Owned Companies launch rockets. Today it is different though?
+
+The New space movement happened. Like in the west, new Space Companies started to take shape. One of the leading and best-funded companies is Galactic Energy.
+
+Galactic Energy stands apart from the Great Wall Industry Corporation and CASC. As a private company, Galactic Energy attracted large sums of investment. Galactic Energy accumulated a total of 300 million yuan funding. (~43M USD) This investment looks to be less than Elon Musk’s investment of $100 million into SpaceX. A fair comparison of the investment can be made by looking at the labor costs.
+
+The purchasing power for labor differs between China and the USA. The salary per year for engineers in China averages 315,000 CNY (USD 45,000). The average salary in the USA for an engineer comes in almost double the China average.
+
+With a reduced cost for labor, Galactic Energy obtains a comparable number of engineers for less money. The investment provides Galactic Energy with sufficient funds for an early-stage rocket development company. Engineer Salary Data from http://www.salaryexplorer.com/
+
+(Source: http://www.salaryexplorer.com/salary-survey.php?loc=229&loctype=1&job=261&jobtype=3)
+
+During an interview with WestEastSpace.com, Galactic Energy explained that they expect to reach 200 employees in 2020. Galactic Energy’s hiring focuses on people with rich working experience in the aerospace and space field. The management strives to build an even stronger technology team.
+
+In comparison, SpaceX grew from the founding team in 2001 to about 160 employees by 2005. So long as Galactic Energy stays on track to their hiring plan, which they positively affirmed, the Chinese new space company staff equates to SpaceX staff growth in half the time. Two years in, Galactic Energy staffing parallels SpaceX staffing four years in.
+
+But they years behind, right?
+
+SpaceX came a long way in seven years. Seven years after founding and several painful lessons learned, SpaceX made history by launching to orbit a Falcon 1 rocket, the world’s first privately funded successful orbital rocket. Galactic Energy is seeking to repeat this feat in less time.
+
+Galactic Energy explained the initial launches leverage the Ceres-1, three-stage solid-fueled rocket. With the rocket, 350 kg can be delivered into low earth orbit. (270 kg into a 700 km sun-synchronous orbit) The maiden flight target date is the first half of 2020. The Coronavirus outbreak slides the launch, but Galactic Energy remains confident about the first half launch date.
+
+Galactic Energy’s rocket also booked an undisclosed customer. Since the rocket can delivery both a primary and secondary payload, all extra space had been sold. The spokesperson from Galactic Energy requested the names of the customers could not be disclosed currently.
+
+With growing interest in Chinese launch services, part of the payload may be set aside for satellites and some for advertising. The spokesperson explained that advertising is a complementary way for China’s commercial rocket companies to generate revenue and lower the end costs to customers.
+
+“The most important for us now is to make every effort to ensure the success of the first rocket launch, only with this, we can make more profit in the future.” Galactic Energy
+
+CERES-1 launch parameters are as follows:
+
+Target orbit:97.4°orbital inclination, 500km orbit orbital altitude SSO.
+
+Orbit semi- major axis deviation:±5km（3σ)
+
+Eccentricity deviation:≤0.003（3σ）
+
+Deviation of orbit inclination:±0.05°（3σ）
+
+Mechanical environmental conditions: axial flight overload≤8g
+
+CERES-1 is equipped with a variety of interface adapters to accommodate various payloads.
+
+But that is a solid rocket, SpaceX is using RP-1.
+
+Correct, SpaceX did develop the Merline Engine to use RP-1. We need to look at the difference in the Chinese and US launch markets.
+
+Chinese rockets in the past heavily relied on solid-fuel rockets. RP-1 engines can be more difficult to develop than solid-fueled boosters. Therefore, the natural development for Chinese companies will follow the technology similar to other local rockets. RP-1 and other advanced stages are under development, but take time to get right. We can see from SpaceX development, companies need time to get the design quirks out.
+
+The next iteration of rockets by Galactic Energy will be a medium-lift orbital launch vehicle. The Pallas-1 utilizes RP-1 and liquid oxygen (Kerolox) in the first stage. The first stage leverages seven Welkin variable thrust engines, legs, and grid fins to allow recovery by vertical landing. The approach will look and sound familiar to the SpaceX Falcon 9 booster. Before you say they copied it, think that most airplanes look similar, but the internal workings differ.
+
+The Welkin 40-ton liquid oxygen/kerosene engine testing in progress shows the development path following SpaceX. On July 6, 2019, Galactic Energy disclosed completed its first firing test of domestic liquid oxygen/kerosene engine key components. The engine design includes a complex gas generator. They call their engine the Chinese version of the SpaceX “Merlin” engine.
+
+Does cost make a difference?
+
+Cost does make a difference. The recent exchange of words between Roscomos and SpaceX provides proof of the disruption SpaceX caused in the launch industry. As a result, Roscosmos announced publically intentions on lowering launch costs.
+
+Galactic Energy understands in open market pricing and highlighted the importance of reduced satellite launch services. To support the development of the space economy, the Pallas-1 will target $3000 per kilogram.
+
+Galactic Energy said to WestEastSpace:
+
+“SpaceX and Rocket Lab set good examples for us, now the priority task for Galactic Energy is to ensure the successful launch of the first rocket CERE-1. We also working on reducing the launch price to less than $10,000 per kilogram, so shortly, we believe we can catch up with these companies.” For reference, a similar launch of an Electron rocket is listed at 5.6 million USD.
+
+The PALLAS-1 initial test flight is not yet announced, however, expectations place launch sometime in the next two years.
+
+“It is necessary for a rocket company to master the engine design and manufacturing technology, and we have the ability to customize different engines for our customers. The success of the rocket is the proof of the engine technology, and the breakthrough of the engine technology is the guarantee of the success of the rocket, so the launch and the engine market for us is an inseparable two sides.”
+
+Recently, the independently developed Welkin liquid oxygen/kerosene engine large range variable condition turbine pump components’ delivery has been completed, and hydraulic tests will be carried out in the near future.
+
+Welkin liquid oxygen/kerosene engine is the main engine of Pallas-1, which can be reused 50 times. With its excellent design, it has a variable thrust ratio of 4:1 and pushes the weight ratio of over 120. As the heart of the engine, the turbine pump is the only component with a high spinning speed. It consumes high-pressure gas to drive the turbine, makes the pump to rotate at high speed and push the pressurized oxidant and fuel from the tank to the thrust chamber.
+
+The independently R&D Welkin liquid oxygen/kerosene engine large range variable condition turbine pump is the first domestic double suction coaxial split turbine pump, the structure forms of coaxial split (rigid shaft), liquid oxygen pump double suction, turbine cantilever, membrane box seal and self-developed new floating ring are adopted within. The innovative design significantly improves the rotating speed, reduces the sealing pressure, improves the reliability, and further simplifies the structure of the turbine pump, reducing the total weight by 30% — 40% compared with the traditional design.
+
+In the earlier stage, the turbine pump components have successively completed all the tests such as dynamic sealing, airtightness, and pressure, dynamic balance, etc. And all the tests are successful. Each component meets the design and acceptance of delivery requirements, and the pump hydraulic performance test will be carried out soon. With the follow-up joint test of the turbine pump and gas generator and the test of the whole system afterward, the development process of the liquid rocket will be accelerated this year.

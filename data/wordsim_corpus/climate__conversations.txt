@@ -1,0 +1,79 @@
+A photo from the Climate Crimes installation
+
+Michaela French: The project I was planning to present at i-Docs was a short 360° fulldome documentary called Climate Crimes which explores the complex relationship between global air pollution, climate change and human migration. Global warming acts as a catalyst for social conflict and uncertainty on a local level, which in turn also has a global impact. The film was commissioned for The Future Starts Here exhibition at the Victoria & Albert Museum, London, and was developed and created in collaboration with architect Dr Adrian Lahoud and fulldome animator Max Crow.
+
+I see the connection between our films in terms of a systems perspective. Mine is micro and global and yours reflects the reality of that at ground level (quite literally). I like that interrelation.
+
+Lizzie Warren: Yes. I was thinking along the same lines. Can you tell me a little bit about why you chose the format you did? It strikes me as unique.
+
+French: I’ve been working in planetariums on and off for a long time. In 2014, I started the Fulldome Research Group at Royal College of Art in London. It was a collaborative project with the planetarium at Royal Museum Greenwich to explore the creative potential of fulldome space. The collaboration with Adrian Lahoud came out of that project. Adrian had made a preliminary HD video about his research but wanted to see what it would do to the story if we told it in dome space instead. The collaboration ran for about two years with various iterations of the film being exhibited and it ended with the version you saw as an installation at the V&A’ s The Future Starts Here exhibition. Right now I’m converting my dome master to 360 video, my first move into VR territory.
+
+Warren: Cool. I love immersive works related to the built environment — like panoramic paintings and cyclorama.
+
+French: I think the boundaries are not defined in immersive space in the same way as cinema because it’s emerging but also because the space is harder to define…
+
+Tell me about your film.
+
+Red wolf Sam (M1784) by Lizzie Warren with the Google Jump
+
+Warren: The project I was going to present at i-Docs is a seven-minute 360 video that immerses viewers inside a pack of critically endangered red wolves housed under a Species Survival Plan (SSP) at the Wolf Conservation Center in New York. This particular family, consisting of two parents and four yearlings, make up a significant percentage of the red wolves left on earth. I originally wanted to make a more traditional documentary about a sanctuary that takes in wolves that have been illegally kept as pets. Sometimes the owners know they’re getting a wolf and sometimes they are shocked when the puppy grows up. And the interplay between the wolves and their human caretakers is very intimate. In the US, each state has its own rules about what percentage of “wolf DNA” a dog can have or whether one can simply keep a wolf as a pet. There’s this gray area.
+
+The opportunity came up, though a Google program, for me to use this incredible VR camera and put it into a red wolf enclosure. The red wolves are kind of the opposite of the more domesticated wolves — they haven’t been exposed to humans in their entire lives. It seemed like a great opportunity to see them up close. Because the camera was so big and heavy we were able to put it in the enclosure without the fear that they would try to destroy it (although they did bite the tripod’s rubber feet).
+
+Red wolves are the most endangered in the world. The genetics of the red wolves are highly scrutinized and managed. The entire existing population comes from just fourteen wild wolves that were left after the species collapsed about thirty years ago.
+
+French: It’s interesting that your focus shifted based on the tech available to you, that it allowed a different story to be told.
+
+What response have you had to the film? I get a strong impression that you are committed to impacting the population numbers by sharing the story.
+
+Warren: Yes. The question was always, “How can we film the wolves without negatively impacting them or introducing more people into their environment?” The caretaker of the red wolves thought this would be good stimulation for them, to interact with something new in their environment.
+
+One more note about 360: One thing that came out was how the wolves communicate spatially. They move as a unit. That’s something that you can’t really experience in a flat format. But when you’re in the 360 format, you can see and kind of feel them moving around you in a way that feels so natural. That was the kind of amazing thing for me.
+
+One thing that came out was how the wolves communicate spatially. That’s something that you can’t really experience in a flat format.
+
+French: The issue of spatiality is interesting. In terms of the way we view immersive content, I really like that the medium allows a new or different perspective on real-world dynamics.
+
+Warren: How will your project change as you move it into a 360 format? Do you imagine people’s experience with it will change? Will your goals around it change — or is it more of a continuation?
+
+French: I think making it into 360 video will change the experience for sure. First, I’m concerned people won’t be able to read the text and graphics, but the scale and the shared experience of the planetarium are really integral to how we wanted to tell the story. So, I’m not sure how 360 will go but am happy to open to a much broader audience.
+
+Warren: Did you think about genre when you made this? That is a kind of wrinkle in the 360/VR production space.
+
+French: The Fulldome Research Group remit was in part to expand the language of fulldome space using practice-based research, so we were intentionally looking beyond the standard fulldome genres, which are either science education, space and astronomy, or digital moving geometry for rave culture immersive music experiences.
+
+Environment, climate change, and social issues were not commonly discussed in planetariums. There are lots of reasons for this but we felt it was important to start telling stories that reflect the real world rather than dreams of conquering space.
+
+We felt it was important to start telling stories that reflect the real world rather than dreams of conquering space.
+
+Warren: I think there is a boundary, largely unspoken, that technology is supposed to be the “star” of newer format works. The advocacy pieces have to operate in a very prescribed way or they’re kind of off-piste. But maybe that’s all media and art. I don’t know… I showed the Red Wolf piece at SeriesFest, which is a big TV festival in Denver. There were people watching it who didn’t have a lot of VR experience and they seemed to really love how slow it was. I think tech people are a little more like, “Why didn’t you cut this faster??” But you have to give yourself over to the vulnerability of being in the headset when not a lot is happening, and that can feel awkward if you’re not expecting it.
+
+French: Learning to go slow is a big part of the Covid-19 lockdown for me and it’s not always comfortable! But it’s so good and so necessary, so I say it’s great that you went off-piste, made a choice that is challenging but gentle at the same time. A key aspect of my Ph.D. thesis is the concept of “an education of attention.” Making time to observe and experience, we learn differently — and I’d say we are often more attuned to the real world over the intensely mediated one we spend our lives in.
+
+Making time to observe and experience, we learn differently — and I’d say we are often more attuned to the real world over the intensely mediated one we spend our lives in.
+
+Warren: I can’t seem to get away from trying to integrate that slowness or friction-y movement into my work, including my most recent project. It’s about community-created media from the 1960s.
+
+In a funny way, when everyone started to self-isolate I thought, now people would want to watch the wolves for fifteen minutes. Does that sound insensitive? I think our current social restrictions have changed the calculus of what people are looking for or have time for or need from a piece of immersive media.
+
+I think our current social restrictions have changed the calculus of what people are looking for or have time for or need from a piece of immersive media.
+
+French: Do your films often have an environmental perspective?
+
+Warren: Not really. I’m interested in it but not particularly well-versed . . . although now I suppose we all are thinking about it constantly. Or, at least, I feel like I’m broadening my particular interest, which tends to center around people’s interaction with bureaucracy or more specifically the intersection of trauma and bureaucracy, to include ecological concerns. I don’t feel very nimble in articulating those issues, though. Do you?
+
+French: No, not specifically. But Climates Crimes has changed things for me and, combined with my Ph.D., my direction has definitely shifted toward an ecological and systems perspective.
+
+Warren: How did Climate Crimes change things for you?
+
+French: Making the film coincided with reading a lot of theory about ecological and systems perspectives: Bateson, Daina Meadows, and, specifically, James J. Gibson’s The Ecological Approach to Visual Perception. I found I couldn’t hold onto old patterns of thinking and experience as knowledge became a new foundation.
+
+In making the film, and for the immersive space of the dome, I felt it was important to try to communicate these concepts visually, and experientially. To do that required somehow embodying the understanding of permeability, responsibility, and inseparability. If I really wanted my audience to understand it I felt I needed to feel it deeply. There was no going back. There are a few images of the floating bodies of refugees in the ocean from coastguard archives. I found myself in a strange relationship with these people, not knowing them or whether they were alive or dead, but building empathy with a plight that I found deeply moving and humbling. I wanted to represent each of them with respect as individuals. It felt like quite a load to carry, I had some responsibility to tell their stories.
+
+Warren: So, did your thesis grow out of that research?
+
+French: They went back and forth together, running alongside each other for about 3 years. The Ph.D. research also became quite a personal journey as well. But I guess that’s the nature of the artistic practice, all these threads combine and inform the creative process.
+
+Warren: I think we covered some ground. I really enjoyed your piece and our conversation!
+
+French: I completely agree, it’s been a pleasure meeting you.

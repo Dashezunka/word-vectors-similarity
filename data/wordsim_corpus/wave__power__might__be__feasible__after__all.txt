@@ -1,0 +1,61 @@
+Wave Power Might Be Feasible After All
+
+It’s a simple idea: take the incessant, rhythmic movement of the ocean’s surface and turn it into a usable form of energy. And why shouldn’t we? It’s clean, renewable, predictable, and there’s a lot of it, as the ocean covers 71% of the planet’s surface.
+
+Even way back in 1799, engineer and mathematician Pierre-Simon Girard realized the potential of wave energy. On the coast of his native France, he and his son invented a simple buoy attached to a lever. The idea was that the buoy would move up and down with the waves, in turn moving the lever, which could be translated into mechanical energy to power the many pumps and mills fueling the First Industrial Revolution. His patent claims “The enormous mass of an ocean liner … responds to the slightest wave motion. If … one imagines this ship suspended from the end of a lever, one will conceive the idea of the most powerful machine which has ever existed.” While its effectiveness was limited, this spurred a flurry of new patents in subsequent decades across a rapidly industrializing Europe, as people began to make use of such a vast, renewable source of energy.
+
+The first patent for wave power was filed in France in 1799.
+
+After electricity was discovered in 1879, some inventors realized wave energy could turn a turbine to produce an electric current. The first of these was Bochaux-Praceique, also a French inventor, who in 1910 used an oscillating water column to power his house. His idea was to build a hollow, half-submerged column, allowing for the ebb and flow of the waves to fill the bottom half of it and then drain. The water rushing in forced the air out of the top half, which turned a bidirectional turbine, and, when the water receded, air flowed back in, again turning the turbine.
+
+Research continued through the 1900s, with many new ideas being produced, such as using the up and down motion of the joints between sections of a raft to power lights at sea. During the 1970s, thanks to the oil crisis, interest in wave power grew dramatically. Perhaps the greatest product of this time was Salter’s duck. This is a pear-shaped buoy that contains gyroscopes, which spin when the buoy is struck by a wave. The energy produced by their rotation is then converted into electricity by an electrical generator.
+
+Today, even more innovative designs exist, all of which offer unique and increasingly efficient ways of harnessing wave energy. Despite this, wave power has always remained on the renewable energy fringe. So what’s the problem? Why has it never been utilized on a large scale? And why does it lag decades behind other renewable energy sectors?
+
+The Problems With Wave Energy
+
+To begin with, it can’t compete with fossil fuels. Coal, oil, and natural gas have energy densities of 24, 45, and 55 MJ/kg, respectively. This means that every kilogram of natural gas, for example, has 55 MegaJoules, which is enough energy to power your oven for a few hours. Because they have so much power crammed into such a small amount and because they can be efficiently stored and transported, fossil fuels have dominated energy production since the 1880s.
+
+Second, the ocean isn’t friendly. Saltwater is 5 times more corrosive than freshwater, violent weather is common, and sealife can attach to equipment. Any equipment used to generate wave power, therefore, has a shorter lifespan, requires more upkeep, and is far more expensive, as it must be specially designed and manufactured. This added cost has historically made wave power projects financially unattractive.
+
+Third, the wavelengths of ocean waves are problematic for the electrical grid. Grid equipment and operators need a consistent supply of power to operate smoothly and safely. Any sharp incline or decline of power might damage equipment, put people in danger, or leave parts of the grid unpowered. Ocean waves, unfortunately, are certainly inconsistent, especially when considering the weather. The generally accepted equation for wave power is shown below, and it can demonstrate just how problematic even slight wave variations can be.
+
+P is the total energy output, H is the wave height, T is the period, p is the water density, and g is gravity. As can be seen, P is proportional to T, yet proportional to H².
+
+So, if the height of the waves is 2 meters and they have a period of 5 seconds, then the kilowatts per meter is 10. However, in a storm, the wave height might go up to 10 meters and have a period of 15 seconds. In this case, the kilowatts per meter is 750, easily causing problems for an electrical grid designed to handle the original 10. Because of this, both investors and grid managers have struggled to incorporate wave power into local electrical grids.
+
+Fourth, the coast is crowded. Buildable land is usually already taken or is extremely expensive, and the seaways are heavily trafficked. Placing wave power equipment, including transmission lines, would likely be expensive and could disrupt numerous industries, such as shipping, tourism, fishing, just to name a few. With this in mind, it’s no wonder that wave power is not more widespread.
+
+Fifth, we have no idea what it does to wildlife.
+
+Because of the above reasons, governments and companies have struggled to make wave power economically feasible. For example, the first attempt at commercial implementation was Islay LIMPET, a UK based company. Their idea was similar to Bochaux-Praceique’s oscillating water column, and they were able to successfully feed energy into the local electrical grid. However, in 2018 it was decommissioned, as it was not profitable enough to justify its continued operation. Likewise, the Aguçadoura Wave Farm in Portugal, the first wave farm in the world, had a solid idea but could not turn enough profit for it to continue. They used Pelamis Wave Energy Converters, which are a series of large, connected buoys. The joints would rise and fall with waves, thus powering a generator.
+
+Pelamis Wave Energy Converters in Peniche, Portugal. (Creative Commons Licence)
+
+However, their parent company went under and the project was liquidated, showing again the lack of interest from financial markets.
+
+This is a common story, in that numerous companies entered the market with a scientifically sound idea, but, in the end, they couldn’t survive in competitive energy markets.
+
+The next generation of wave power, though, seems to have a much better chance.
+
+Next Generation Wave Power Is Turning The Tide
+
+Now that fossil fuels are finally on their way out, renewables have a chance to thrive, and despite the difficulties and the failure of past wave power projects, new companies are pushing ahead, as they have shown their economic feasibility.
+
+Perhaps the best example is Eco Wave Power, a Swedish company operating out of Israel. In 2011, they developed an array of relatively small buoys that can attach to existing structures, such as docks. The picture below demonstrates how they generate electricity.
+
+Eco Wave Power’s system is controlled and monitored automatically. (Image Credit)
+
+This design allows them to be easily maintained, not require long transmission lines, not interfere with existing coastal activities, have minimal damage on marine life, and to be raised during storms. In fact, the system is able to sense when the waves become too high, at which point the buoys are automatically raised. So far, this design seems to have solved many of the problems that plagued previous wave power projects.
+
+As of now, they have installed these buoys in Israel and Gibraltar, and they will be expanding to Australia, the US, China, Mexico, Chile, New Zealand, Canada, the UK, Spain, France, Portugal, Norway, and Ireland, totaling 190MW.
+
+Similarly, a company called Ocean Power Technology has been able to persevere with its PowerBuoy design. The movement of this buoy charges battery packs contained inside, which can then be transmitted through undersea cables. The key to this design’s success is the ability for each buoy to collect and communicate vast amounts of data, as they have radar, video cameras, satellite trackers, automatic identification systems (AISs), and WiFi, cellphone, and satellite antennae. All of this data is fed into a centralized smart system, which monitors and adapts the buoys to changing conditions. For example, on coming ships are alerted to the buoy's presence to avoid collisions, the buoy can self-monitor its need for maintenance, and adjust itself during rough weather. In fact, the company has already proven that their system can handle extreme conditions, including hurricanes, while still being economically viable.
+
+Ocean Power Technology already has installations in Scotland and the US, and they will soon complete projects in Australia, the UK, and Spain.
+
+Of course, these companies are not alone, as several others have made wave power economically feasible in recent years as well.
+
+Final Thoughts
+
+Renewable energy is now able to compete with fossil fuels, providing wave power a much-needed opportunity. Like the oil crisis in the 1970s, people are again looking for alternative sources of energy, and, because of the increasing awareness of humanity’s impact on the planet, there is a serious push for clean power. And, even though wave power is still a few decades behind solar and wind, this likely won’t last long, as some have shown that it can turn a profit. Therefore, the next few years will likely be rife with new and innovative wave power installations, as the industry has finally found its legs.

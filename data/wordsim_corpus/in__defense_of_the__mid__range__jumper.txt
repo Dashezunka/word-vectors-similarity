@@ -1,0 +1,65 @@
+DeMar DeRozan shooting. Picture Source: The Canadian Press
+
+In 1979, the three-point line was painted onto NBA courts, and this sparked an ongoing debate over the shot’s value compared to mid-range jumpers (defined as shots outside of the paint but inside the three-point line). The basic argument in favor of taking more three-point shots is simple. A three-pointer is worth 50% more than a 2 pointer, so, all else equal, it is a more valuable shot. However, we know all else is not equal; three-pointers are farther away from the basket and are harder to make than mid-range shots or layups.
+
+A shot’s value is most practically defined as the expected points per shot. In 2019, NBA players had an average three-point field goal percentage of 35.5%. If we multiply this percentage by 3 for the number of points per shot, we get the average value of a three-point shot: 1.07 points. NBA players made mid-range shots at a 40.5% clip in 2019, valuing them at .81 points per shot.
+
+Data Source: ESPN.com
+
+From this surface-level analysis, it seems clear teams should take more three-pointers and less mid-range jump shots. In fact, since 1979, this is the trend we have seen in the NBA:
+
+Data Source: Stats.NBA.com
+
+Teams have been shooting more and more three-pointers each year. The anomalous bump in the 90s is due to the NBA’s decision to move the three-point line from 23 feet, 9 inches and 22 feet in the corners to a uniform 22 feet around the basket in the 1995 season. This change was reversed after the 1997 season, leading to the subsequent drop in 3PA per game. Interestingly, people are now calling for the line to be moved back farther from the basket to reduce the frequency of three-point shots. One argument is that this shot is getting too easy for NBA players and that the game is broken by just shooting as many threes as possible. But is this change really necessary? First, let’s look at how three-point percentages have changed with the boom in three-pointers attempted:
+
+Data Source: ESPN.com
+
+While players appear to have improved their three-point accuracy until about 2000 (again, the 1995–1997 seasons had a shorter three-point line), 3P% has since leveled out. This suggests teams have decided it’s a good idea to shoot more threes despite not making them at higher rates. This is more clear looking at the combined charts since 2000:
+
+Data Sources: ESPN.com & Stats.NBA.com
+
+The cost of this rise in three-point shooting has been a decline in mid-range jumpers. According to more and more analytics experts, the midrange shot is dead. NBA teams appear to, on average, agree:
+
+Data Sources: ESPN.com & Stats.NBA.com
+
+Leading the charge against mid-range jumpers is Houston Rockets GM Daryl Morey. He has turned the Rockets into an analytics-driven team of players who are told exactly where they should and should not shoot. This strategy is colloquially called “Moreyball” (though mostly by Rockets fans) in reference to Billy Beane’s “Moneyball” advanced analytics and sabermetrics-based approach to baseball. Based on this article’s first graph (albeit more segmented data by three-point location, mid-range shot area, etc.), Morey tells his players to take almost exclusively three-pointers and layups and to avoid mid-range jumpers at all costs. It shows in their shot selection data.
+
+Data Source: Stats.NBA.com
+
+With only 5% of their shots coming from the midrange, the NBA averages 300% more mid-range shots than the Rockets. The Rockets also take far more threes than the league average. What is incredible about this graph is that this snapshot is in the context of a league that already shoots far less mid-range jumpers than previous seasons (as shown in a previous chart). For reference, if we compared the shot selection of these 2019 Rockets to the league average shot selection in 1998 (the last year Michael Jordan won a championship), the results are staggering.
+
+This chart shows the proportion of shots, so the increased pace of play since 1998 is not a factor. Data Source: Stats.NBA.com
+
+But has Morey earned the comparison to Billy Beane? The Rocket’s and NBA’s trend toward analytics-driven basketball is certainly not without controversy. Kevin Durant — a former NBA MVP, two-time NBA champion, and a prolific mid-range shooter — weighed in about analytics:
+
+Charles Barkley — another NBA MVP, Hall of Famer, and current NBA analyst — agrees, saying “First of all, I’ve always believed analytics was crap. You know I never mention the Rockets as legitimate contenders ’cause they’re not.”
+
+Morey shot back at Barkley.
+
+Despite the passion on both sides of the mid-range/three-point debate, both seem to have reasonable arguments. Barkley, Durant, and other mid-range jumper advocates argue basketball is an art, not a science — that it’s a dynamic game requiring constant adjustments and intuitive and unquantifiable feel. Morey uses data showing three-pointers are on average more valuable and advocates for taking no mid-range shots. Of course, the best test of this argument is measuring which approach has been more successful. The definition of success is something on which both sides agree: championship rings. Lakers legend Magic Johnson summarizes what most NBA players and executives feel.
+
+Statistics and regular season wins are means to an end. The short answer, then, is that despite sustained regular season success, Morey has not earned his title of “Moreyball.” The Rockets have not been successful with their analytics-driven strategy. Five seasons of no championships might feel like an insignificant sample size, but through this time the Rockets had an elite three-point shooter in Eric Gordon, an MVP in James Harden, a surefire Hall of Famer in elite point guard Chris Paul, and a dominant big man in Clint Capela. They had all the pieces to win a championship, but their analytics-based strategies didn’t pay off.
+
+Some might argue the Rockets didn’t have a bad strategy, but they were simply outshot by another team with a similar strategy: the “Splash Brothers”- led Golden State Warriors. Actually, despite the highlight reels of Stephen Curry and Klay Thompson swishing threes, Golden State takes a lot of mid-range shots. Most championship teams do. The following graphic compares 2018 regular season offensive efficiency (team points scored per 100 possessions) to proportion of mid-range shots taken:
+
+Data Sources: Stats.NBA.com & Basketball-Reference.com
+
+The Golden State Warriors, first in offensive efficiency and 2018 championship-winners, shot a lot of mid-range jumpers, and they actually made the most mid-range jumpers in the league. I ran a correlation on the above two variables and found a correlation of -.15, suggesting there is a weak negative correlation between shooting more mid-range shots and offensive efficiency. A simple linear regression shows proportion of mid-range shots taken is not a statistically significant predictor of offensive efficiency alone.
+
+NBA18_new$FGA_2 represents proportion of mid-range shots taken. R model summary from simple linear regression on above scatterplot.
+
+However, not every team is competing for the championship each year. While not all non-contenders require reminders from NBA commissioner Adam Silver not to tank so obviously, there are clearly some teams that are not pursuing winning strategies. For this reason, I’ll restrict the above scatterplot to contenders — defined here as the top ten teams in offensive efficiency.
+
+Data Sources: Stats.NBA.com & Basketball-Reference.com
+
+Now the correlation drops to (-.07) — practically 0 — and it is clear that proportion of mid-range shots does not significantly predict offensive efficiency (p-value of only .85). This seems contradictory to the initial analysis, because aren’t three-point shots more valuable in terms of expected value? However, this scatter plot also does not indicate that increased proportion of mid-range shooting actually helps offensive efficiency, either. Yes, Golden State had the highest offensive efficiency and was among the highest in mid-range shooting proportion, but Houston is #2 in offensive efficiency using their “mid-range shots aren’t allowed Moreyball strategy.” But the regular season doesn’t determine who wins championships. Let’s look at how these stats compare for top teams in the playoffs. For the following graphic, I compare the final 8 teams of the 2018 playoffs (the playoffs for the season we just looked at). These 8 teams represents the ones who made it out of the first round of the playoffs.
+
+Data Sources: Stats.NBA.com & Basketball-Reference.com
+
+This graph appears to contradict the “analytics” even more. There is now a medium-strength positive correlation (.48) between shooting more mid-range shots and offensive efficiency. Interestingly, we see that Houston’s offensive efficiency dropped tremendously from about 112.5 points per hundred possessions to 107, falling far behind the Raptors and Warriors. The Warriors led this group by a significant margin in both mid-range shooting and offensive efficiency. While there appear to be too few data points to confirm that mid-range shooting is beneficial in the playoffs, each of the data points above represent at least 9 (New Orleans Pelicans) and as many as 22 games played (Cleveland Cavaliers), so this scatterplot is relatively stable.
+
+NBA18_postD$FGA_2 represents proportion of mid-range shots taken. R model summary from simple linear regression on above scatterplot.
+
+This model shows that an increase in proportion of shots taken from mid-range is correlated with higher offensive efficiency. While this regression does not show statistical significance, the model does not account for the fact that each data point is the aggregation of many games played. If all playoff games were mapped, it would strengthen this regression further.
+
+I contend that a refusal to adapt to in-game dynamics and take mid-range shots has hurt the Rocket’s playoff performance. Mid-range shots are undervalued, especially in the playoffs, for two major reasons. First, the concept of “gravity” (usually applied to individual players). Committing to taking mid-range shots opens up the floor for easier three-pointers, because defenses are forced to guard the mid-range. Second, playoff defenses are more intense and better planned, making static strategies like never taking mid-range jumpers less effective.

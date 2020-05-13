@@ -1,0 +1,71 @@
+Time Flies Like an Arrow, Fruit Flies Like a Banana
+
+How we conceptualise time depends on whether we are bilingual or blind, arriving or departing…
+
+Image by worker
+
+Man alone chimes the hour. And, because of this, man alone suffers a paralyzing fear that no other creature endures. A fear of time running out. (Mitch Albom, “Time Keeper”, 2015)
+
+We measure time, we study it, we experience it as a gush or trickle depending on factors such as emotion, age, and even the tempo of background music — but how do we think about time? How do we grapple with this concept, and more importantly: why do we bother?
+
+[Author’s note: This article deals with how we conceptualise time, a second article explaining how we perceive time (neural mechanisms, subjective time dilation etc.) will follow.]
+
+The brain is a predictive engine
+
+Why do we spend so much of our lives ruminating on the past and anticipating the future? It’s largely because our brains are time machines — the only place where time travel is possible (Rovelli, 2019).
+
+Despite accounting for only 2% of bodily mass, the brain uses 20% of our energy, more than any other organ (Mink, Blumenschine, & Adams, 1981). Meagre in tooth and claw, it’s our wits that have allowed us to survive and thrive as a species, apex predators of the animal kingdom (even if we do play second fiddle to single-celled organisms).
+
+In the novel Blindsight humanity experiences first contact with intelligent aliens who have little faculty or, indeed, use for language. Their intelligence, evolved only to navigate the labyrinthine complexity of their biology, is contrasted with humanity’s capacity for meta-cognition, and therefore consciousness:
+
+“[The brain] consumes evermore computational resources, bogs itself down with endless recursion and irrelevant simulations. Metaprocesses bloom like cancer, and awaken, and call themselves I.” (Peter Watts, “Blindsight”, 2006,)
+
+Of course, such simulations are hardly irrelevant, and are in fact highly adaptive. Consciousness might be resource-intensive, but its survival advantages are clear: knowledge of our past enables us to more accurately predict, and navigate, our future.
+
+How do we conceptualise time?
+
+Abstraction of abstractions, what do we think about when we think about time?
+
+Metaphor
+
+Metaphor enables abstract thought by grounding it in the tangible and familiar (Boroditsky & Ramscar, 2002).
+
+How we perceive the world is therefore heavily influenced by our sensory and motor systems — consider what life would be like if we could sense magnetic fields as bees do, or had the distributed nervous system of the octopus. As fascinating as embodied cognition is — I digress.
+
+Cross-modal perception is common to a degree in all of us. Physical and emotional warmth light up the same areas of our brain (Inagaki & Eisenberger, 2018), we instinctively know that Kiki is sharp and Bouba is smooth to the touch because of the way they sound (Milan et al., 2013), and we think of time elapsed as distance traveled or quantity accrued (Bylund & Athanasopoulos, 2017).
+
+Bilinguals are flexible thinkers
+
+For English-speakers, duration is a distance traveled. While we might say ‘a long wedding’, for Greek-speakers such a wedding is ‘big’ (and I don’t just mean the guest list!) There are many languages where time is conceived as something which grows in volume.
+
+In an experiment by Bylund and Athanasopoulos (2017), Spanish-Swedish bilinguals were prompted with either the Spanish or Swedish word for duration, and as a result experience the passage of time differently.
+
+Those prompted in Spanish ignored lines lengthening left to right on a screen and instead based their time estimates on an animation of a container filling up, while those prompted in Swedish did the exact opposite, showing line rather than container-congruent spatial interference for estimating duration.
+
+It seems only fitting, then, that the first timekeeping devices were the sundial (a traveling, lengthening shadow), and its night-time counterpart, the clepsydra or water clock (water collecting in a vessel) (Liu, 2016).
+
+Illustration of a water clock by Alexander_P
+
+Synesthetes have a couple of wires crossed
+
+In people with synesthesia, disparate sensory modalities are inextricably intertwined. To one such benefactor of the condition, ‘Dave’ might taste like grapefruit (sound-taste), the number four might glow green (grapheme-colour), and calendar months might unfurl like a filmstrip in the air around them (visuo-spatial synesthesia).
+
+That’s right, people with time-space synesthesia can see time, or rather, their personal conceptualisation of it (Specht, 2012).
+
+Blind and sighted individuals
+
+While we have no sensory apparatus dedicated to processing temporal experience, our visual system comes close (Evans, 2004). If that’s true, then how on earth do the congenitally blind conceive of time without the benefit of visual metaphor?
+
+You look forward to Friday, and fondly back at all the fun that was had last weekend. Those blind from birth, however, lack the visual experience to facilitate this particular time–space mapping and therefore display no such association (Rinaldi, Vecchi, Fantino, Merabet, & Cattaneo, 2018).
+
+However, blind individuals are able to associate past events with the left side of space and future events with the right side, just as sighted individuals do (Bottini, Crepaldi, Casasanto, Crollen, & Collignon, 2015). The authors hypothesise that blind people develop a horizontal mental timeline haptically through the experience of reading Braille left to right. [Author’s note: Braille is left to right, even for Japanese, Arabic or Hebrew text.]
+
+For blind people the past might not be behind them, but it’s certainly to their left.
+
+Moving meetings, moving people
+
+If I asked you to move our meeting forward, would you interpret that as moving it closer or further down the timeline? (If you think this is clear-cut, you’d be surprised how many people have the opposite interpretation to you.)
+
+Research shows that people disembarking from a flight were more likely to assume the meeting would be rescheduled to a later date than those waiting for them at the airport (Boroditsky & Ramscar, 2002).
+
+It seems that the very act of moving forward in space prompts us to think of moving forward in time.

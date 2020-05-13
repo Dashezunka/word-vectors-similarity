@@ -1,0 +1,139 @@
+Prior to the invention of the silver nitrate-coated mirror in 1835, your reflection in the basin or the polished-metal jug used for your morning ablutions was about as good as it got. These days, we grow up seeing ourselves in all our sharply-defined, reflected glory. And yet, what we see is not always what we get.
+
+The naive physics of mirrors
+
+Although we frequently interact with this commonplace household object, our intuitive grasp of its physics is rather flawed.
+
+Experiments show that adults routinely overestimate what should be visible in a planar (flat) mirror, and anticipate seeing their image in one before they are in front of it. Standing at an angle to a mirror, they fully expect to be able to see their reflection at the place where they peer into it.
+
+Such erroneous beliefs about mirror mechanics appear to develop over time, due to our tendency to learn not just from observation but also by generating hypotheses. Hence, this error is not evident in children aged between five and eleven as these hypotheses haven’t had time to form. (Children younger than five aren’t aware of straight-line looking paths, and expect to be able to see out of a curved tube.)
+
+Children’s understanding of mirrors is no better than adults, however, despite their lack of this ‘early error’. Rather than grasping the importance of viewpoint, they erroneously believe that a mirror can only reflect a section of the room equal to its width.
+
+Another error we make regarding mirrors is to do with projection size. We believe that were we to outline our image in the mirror it would correspond to the size of our face, rather than half the size as in reality.
+
+People’s understanding of mirror reflections in paintings is similarly flawed. The Venus Effect refers to the egocentrism of mistakenly assuming that what the subject of a painting sees in the mirror is the same image we see.
+
+Venus, Image by Everett — Art
+
+Objects in the mirror are more attractive than they appear
+
+You’ve grown so accustomed to your mirror image — and incidentally, the image captured also by your front-facing camera in selfies — that you vastly prefer it.
+
+The reverse is true for images of your nearest and dearest, to the extent that you’re likely to rate a pair of glasses they’re modelling less positively if it’s presented to you on an image of them that’s been laterally-inverted.
+
+(Of course the image reflected by the mirror isn’t “flipped” horizontally on the x-axis, but rather inside out on the z-axis, as illustrated in this video.)
+
+See that pretty girl in the mirror there
+
+When it comes to recognising yourself in the mirror, a stored representation of your visual features isn’t the only thing to clue you in — it’s also a matter of the proprioceptive, tactile, and motor cues you have from interacting with the mirror.
+
+Strange-faces illusion
+
+Under conditions of low illumination, gazing at your face in the mirror for several uninterrupted minutes results in the strange-faces illusion.
+
+People report seeing “huge distortions of their own faces, monstrous beings, prototypical faces, faces of relatives and deceased, and faces of animals”. [Author’s note: I just tried this and was subjected to a version of me with a constantly roving right eye. Trippy.]
+
+In the Jungian view, this hallucination offers us a view into our subconscious projections. This illusion occurs, as do many hallucinations, due to the perceptual ambiguity facilitated by dim lighting.
+
+As to be expected, individuals with schizophrenia are convinced such faces — they sometimes see multiples — are real. On the other hand, those with major depression are largely immune to this illusion, perhaps due to affective inhibition.
+
+Self-recognition
+
+Children are able to recognise themselves in the mirror by eighteen months to two years of age. Children below this age typically ignore a mark surreptitiously applied to their face when confronted with it in the mirror.
+
+A child passing the ‘surprise-mark test’ by using their mirror reflection to detect a change in their appearance suggests not only self-recognition, but to many cognitive scientists, implies having acquired a concept of self.
+
+In contrast, when children are shown videos of being marked, very few are able to process this information, as compared with their synchronous mirror reflection. On the basis of this finding, some researchers have argued that passing the mirror test does not conclusively demonstrate any ability beyond visual-kinaesthetic matching.
+
+Furthermore, dolphins, elephants, chimpanzees, orangutans and even pigeons* have passed some mirror tests — can this be considered sufficient evidence that they possess a sense of self?
+
+Or could it be that animals are merely capable of using tools to derive information about their bodies, bypassing self-recognition or forming ‘a representational relationship between mirror and body’. In the same way that a chimpanzee can be instructed to use a joystick to control visuals on a screen without having any understanding of the underlying relationship between the controller and the display.
+
+Such dilemmas are explored by Brandl (2018) in his summary of the literature.
+
+*Here is a list of animals (and insects!) who have, with varying degrees of success, passed the mark test, strongly suggesting self-recognition and indicating the possibility of self-awareness.
+
+Monkey see, monkey do
+
+We unconsciously mirror the body language of others, we find ourselves emulating their accent without meaning to, and when they smile or yawn, we have the irrepressible urge to do the same. This automatic, unconscious mimicry is known as behavioural contagion.
+
+Vital to effective social interaction, empathy is facilitated by creating a “somatic, sensory, and motor representation of other peoples’ mental state” —and we use the mirror neuron system (MNS) to do so.
+
+The MNS in humans engages a network of brain regions including the inferior parietal lobule, the superior temporalsulcus, and areas of the limbic system when we observe another person engaging a goal-directed action.
+
+Mirror neuron activation has been shown to deal specifically with stimuli of social relevance, with stronger activation for scenes depicting two people interacting rather than one person engaged in everyday activities. That is, this system doesn’t merely exist to facilitate broadening our motor repertoire, but is crucial for social learning.
+
+Mirror-touch synaesthesia
+
+In people with synesthesia, separate sensory modalities are intertwined. Such individuals might, for example, perceive the number six as being blue in colour (grapheme-colour synaesthesia), or view number lines undulating across their visual field (visuo-spatial synesthesia).
+
+Another type of synaesthesia occurs when merely observing another person being touched results in a sensation as if one were being touched themselves.
+
+The dominant theories for explaining mirror-touch synaesthesia are that such individuals either have a hyper-active mirror system, or an extremely labile sense of self.
+
+Mirrors as therapeutic tools
+
+Lift your mood
+
+Likely you’ve been advised to smile at yourself in the mirror to put yourself in a positive frame of mind. Not only will you feel happier for having adopted a more confident posture, cognition being embodied, but also due to the social contagion effect.
+
+When observing yourself smiling in the mirror a closed feedback loop is created, you unconsciously mimic your double’s smile, and emotional contagion means that these nascent positive feelings you observe in “them” are further amplified in you.
+
+Get out of your head
+
+In an experiment where undergraduate students were asked to self-describe and self-evaluate, exposure to a mirror resulted in a greater balance between positive and negative self-statements, more remarks regarding their outward appearance, and fewer regarding private rather than socially-relevant aspects of their character.
+
+Reduce body dissatisfaction
+
+Individuals with eating disorders and body-dysmorphic disorders have a strong dissociation between their actual appearance and their internal representation. Mirror exposure therapy has been shown to be an effective treatment.
+
+Treat phantom limb pain
+
+Amputation often results in feeling as if the limb were still there — and in pain.
+
+Mirror box therapy is used to relate movement of the unaffected limb to the phantom. By viewing the apparent motion of their “paralysed” or “clenched” phantom — really only the reflection of their other arm — such patients are able to find relief from their phantom limb pain.
+
+An fMRI study has shown that mirror therapy reverses the maladaptive changes in cortical organisation which occur after loss of a limb.
+
+A mirror box used for treating phantom limbs, developed by V.S. Ramachandran (public domain image)
+
+Reverse the flow of time
+
+Has the rapid march of time got you down? Not to worry, as we conceptualise time spatially, for example, as lying on a left to right timeline, mirror reading can be used to reverse the flow of time.
+
+If only.
+
+Mirror — Sylvia Plath
+
+I am silver and exact. I have no preconceptions.
+
+Whatever I see I swallow immediately
+
+Just as it is, unmisted by love or dislike.
+
+I am not cruel, only truthful‚ The eye of a little god, four-cornered.
+
+Most of the time I meditate on the opposite wall. It is pink, with speckles.
+
+I have looked at it so long I think it is part of my heart.
+
+But it flickers. Faces and darkness separate us over and over.
+
+Now I am a lake. A woman bends over me,
+
+Searching my reaches for what she really is.
+
+Then she turns to those liars, the candles or the moon.
+
+I see her back, and reflect it faithfully.
+
+She rewards me with tears and an agitation of hands.
+
+I am important to her. She comes and goes.
+
+Each morning it is her face that replaces the darkness.
+
+In me she has drowned a young girl, and in me an old woman
+
+Rises toward her day after day, like a terrible fish.

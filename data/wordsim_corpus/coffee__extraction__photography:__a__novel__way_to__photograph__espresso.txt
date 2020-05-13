@@ -1,0 +1,11 @@
+The Paper Filter in the Filter (PFF) Method
+
+Adding a paper filter into the espresso filter basket was popularized in May 2019. The technique involves adding a damp Aeropress paper filter cut to the size of the basket on the bottom, top, both, or something in the middle. This addition seems to improve taste and extraction. Putting a paper filter on the bottom of the filter allowed for higher extraction was due to using a finer grind than normal. The thought was that the grounds didn’t clog the filter, but I suspect the filter was causing channeling, and the paper filter lessened that channeling rather than channeling caused by too fine of a grind.
+
+A paper filter after an espresso shot.
+
+The second trick was to do a really long pre-infusion with just over 1 bar of pressure. Pre-infusion for most lever heads is between 5 to 20 seconds. Some have gone as high as 60 seconds, and I have found between 15 to 30 seconds is optimal depending on when the pre-infusion output starts to blond.
+
+I started out testing PFF, but I was doing a Staccato shot. Through experimentation, I found the top filter to be unnecessary. For the bottom filter, the best place was between the fine and coarse layers or in the middle of the shot of staccato tamped shots. I suspect the fine layer was fusing together during pre-infusion which is why it wouldn’t clog the filter holes.
+
+I started using PFF at the bottom of regular shots, and that’s when I really noticed an interesting pattern. The areas of the filter with slow water flow had high concentrations of coffee sitting there for a period of time, creating a dark spot. This can be seen on the bottom of a puck as well, but it isn’t as easy to spot because it is often only a little darker than the surrounding coffee.

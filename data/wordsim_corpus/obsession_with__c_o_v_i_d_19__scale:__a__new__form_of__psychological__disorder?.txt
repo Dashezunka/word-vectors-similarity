@@ -1,0 +1,13 @@
+Professor Lee then examined the validity of the OCS by correlating it against other validated indicators of psychological dysfunction. She showed that a high OCS score was “strongly associated with coronavirus anxiety, spiritual crisis, alcohol/drug coping, extreme hopelessness, and suicidal ideation.”
+
+In the third step, she used ROC curve analyses to identify a cut-off diagnostic score. Results indicated that an OCS score of ≥7 has an 81–93% sensitivity and 73–76% specificity in identifying “dysfunctional COVID-19 thinking patterns,” she wrote. [Note that the symptoms are scored over a two-week period.]
+
+ROC curve: Statistical method to identify the cut-off diagnostic value with optimal sensitivity and specificity.
+
+Sensitivity: Accuracy of correctly identifying people with a particular disease/disorder.
+
+Specificity: Accuracy of correctly identifying people without the disease/disorder.
+
+Professor Lee originally published her paper titled, “How much “Thinking” about COVID-19 is clinically dysfunctional?” in Brain, Behavior, and Immunity. In her paper’s concluding statement, she urged health experts, academicians, and policymakers to acknowledge this emerging “obsession with COVID-19,” as measured by the OCS.
+
+Could this obsession be a new type or subset of psychological disorder? Only time will tell if it would be included in the DSM (Diagnostic and Statistical Manual of Mental Disorders by the American Psychiatric Association).
